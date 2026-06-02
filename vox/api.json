@@ -537,18 +537,6 @@
       }
     },
     {
-      "key": "番薯动漫",
-      "name": "🌳番薯┃APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://new.app.bytegooty.com",
-        "datakey": "N4yj7l7xKxHF4*gz"
-      }
-    },
-    {
       "key": "HG影视",
       "name": "🌺HG┃APP",
       "type": 3,
