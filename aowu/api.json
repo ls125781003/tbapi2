@@ -772,6 +772,36 @@
       "changeable": 0
     },
     {
+      "name": "📁我的|夸夸",
+      "key": "MyQuark",
+      "type": 3,
+      "api": "csp_MyQuarkAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "📁我的|摆渡",
+      "key": "MyBaidu",
+      "type": 3,
+      "api": "csp_MyBaiduAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "📁我的|优汐",
+      "key": "MyUc",
+      "type": 3,
+      "api": "csp_MyUcAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "name": "🔍fish|盘搜",
       "key": "PSfish",
       "type": 3,

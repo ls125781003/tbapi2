@@ -317,24 +317,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_Leijing",
-      "name": "🐳雷鲸┃网盘",
-      "type": 3,
-      "api": "csp_Leijing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sites": "https://www.leijing1.com",
-        "proxy": "noproxy",
-        "classes": "./json/leijing.json"
-      }
-    },
-    {
       "key": "csp_SeedHub",
       "name": "🎳Seed┃Hub",
       "type": 3,
