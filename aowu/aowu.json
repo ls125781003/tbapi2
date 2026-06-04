@@ -1,6 +1,6 @@
 //     当前接口：http://mytv6688.xyz/aowu/config.webp
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/04/space_img/6bc3271e-3561-4201-b9be-2d7199e17d26.png;md5;20671e64b9fab1b3bc86ad8f9e074d1a",
+    "spider": "https://zl.wpscdn.cn/2026/06/04/space_img/9eeea242-e538-41d4-81fe-406c484b8983.png;md5;8c8da63f7c5d8628d0b40fd03632c3b4",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
