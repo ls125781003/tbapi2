@@ -46,6 +46,18 @@
       "ext": "./json/douban.json"
     },
     {
+      "key": "csp_TgDouban",
+      "name": "🥳TG┃豆瓣",
+      "type": 3,
+      "api": "csp_TgDouban",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": {
+        "filters": "./json/douban.json"
+      }
+    },
+    {
       "key": "csp_Config",
       "name": "😊配置┃中心",
       "type": 3,
@@ -194,19 +206,6 @@
           "预告",
           "花絮"
         ]
-      }
-    },
-    {
-      "key": "csp_PgDouban",
-      "name": "😊PG┃豆瓣",
-      "type": 3,
-      "api": "csp_PgDouban",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "filters": "./json/douban.json",
-        "channel": "Tgsearchers6,peccxinpd,yunpan139,yggpan,xunlei_yppan,yunpanxunlei,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,peccxinpd,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan"
       }
     },
     {
@@ -1093,7 +1092,43 @@
     "raw.githubusercontent.com",
     "googlevideo.com",
     "googleapis.com",
-    "youtube.com"
+    "youtube.com",
+    "www.youtube.com",
+    "m.youtube.com",
+    "youtu.be",
+    "ytimg.com",
+    "i.ytimg.com",
+    "ggpht.com",
+    "yt3.ggpht.com",
+    "youtubei.googleapis.com",
+    "gstatic.com",
+    "nhacmp3youtube.com",
+    "edgeware.tvb.com",
+    "cdn-2.ttvb.eu.org",
+    "yang-1989.eu.org",
+    "hinet.net",
+    "4gtv.tv",
+    "eu.org",
+    "15.204.105.50",
+    "7707bo.trustdeveloppment.com",
+    "1tv41.icu",
+    "lb59.xxip9.top",
+    "php.946985.filegear-sg.me",
+    "github.com",
+    "gcore.jsdelivr.net",
+    "iptv.852851.xyz",
+    "static.wikia.nocookie.net",
+    "static.hbo.com",
+    "cdn.jsdelivr.net",
+    "upload.wikimedia.org",
+    "get.perfecttv.net",
+    "tvlogo-282.pages.dev",
+    "logodownload.org",
+    "tvpnlogopus.samsungcloud.tv",
+    "provider-static.plex.tv",
+    "upload.wikimedia.org",
+    "tvpnlogopeu.samsungcloud.tv",
+    "schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com"
   ],
   "rules": [
     {
