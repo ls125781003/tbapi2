@@ -19,7 +19,7 @@ var KParams = {
 
 async function init(cfg) {
     try {
-        HOST = (cfg.ext?.host?.trim() || 'https://v.aikanbot.com').replace(/\/$/, '');
+        HOST = (cfg.ext?.host?.trim() || 'https://www1.aikanbot.com').replace(/\/$/, '');
         KParams.headers['Referer'] = HOST;
         let parseTimeout = parseInt(cfg.ext?.timeout?.trim(), 10);
         if (parseTimeout > 0) {KParams.timeout = parseTimeout;}

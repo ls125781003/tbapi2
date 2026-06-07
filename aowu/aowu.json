@@ -1,6 +1,6 @@
 //     当前接口：http://mytv6688.xyz/aowu/config.webp
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/06/space_img/7f639fac-73cd-46d6-8849-78f0a826bc8b.png;md5;c678f85b8e80d09d4a7969dc6fa9c10a",
+    "spider": "https://zl.wpscdn.cn/2026/06/07/space_img/e0c4dcbc-c0fc-4694-800b-9ff9a0dffd37.png;md5;0ea3c1815f9db5171159a906e8beb3fd",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
@@ -442,6 +442,15 @@
             "ext": "563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b"
         },
         {
+            "name": "🐱番薯|动漫",
+            "key": "FanShu",
+            "type": 3,
+            "api": "csp_FanShuAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
             "name": "🐱番茶|动漫",
             "key": "AowuDmFc",
             "type": 3,
@@ -797,6 +806,16 @@
             "key": "MyUc",
             "type": 3,
             "api": "csp_MyUcAmns",
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "name": "📁我的|光雅",
+            "key": "MyGuangya",
+            "type": 3,
+            "api": "csp_MyGuangyaAmns",
             "searchable": 0,
             "filterable": 0,
             "quickSearch": 0,

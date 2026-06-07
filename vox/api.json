@@ -178,18 +178,6 @@
       }
     },
     {
-      "key": "csp_TgDouban",
-      "name": "🥳TG┃豆瓣",
-      "type": 3,
-      "api": "csp_TgDouban",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "filters": "./json/douban.json"
-      }
-    },
-    {
       "key": "csp_PanSou",
       "name": "🥺盘搜┃搜索",
       "type": 3,
@@ -294,7 +282,23 @@
       "ext": {
         "cookie": "",
         "filters": "./json/pinglian.json",
-        "sites": "https://pinglian.lol"
+        "sites": "https://pinglian.lol",
+        "proxy": "proxy"
+      }
+    },
+    {
+      "key": "csp_Gyzzs",
+      "name": "🦆光鸭┃至臻",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "api": "csp_Qsxy",
+      "ext": {
+        "cookie": "",
+        "comment": ""
       }
     },
     {
