@@ -288,6 +288,15 @@
       "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-fVP3F3EpDeP3hiqPYunAJ.gz"
     },
     {
+      "name": "☁️盘链|4K",
+      "key": "Panl",
+      "type": 3,
+      "api": "csp_PanlAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "name": "☁️Seed|4K",
       "key": "SeedHub",
       "type": 3,
@@ -392,7 +401,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
+      "ext": "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.host"
     },
     {
       "name": "🔗哔嘀|2K",
@@ -402,7 +411,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://www.xlys02.com,https://xl02.com.de"
+      "ext": "https://v.xl01.eu.cc,https://xl02.com.de,https://v.xl02.eu.cc,https://v.xl01.cc.ua"
     },
     {
       "name": "🔗厂长|2K",
@@ -413,7 +422,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "sites": "https://www.cz4k.com,https://www.cz01.org,https://czzyv.com",
+        "sites": "https://czzy.top,https://www.4kcz.com,https://www.cz4k.com",
         "filters": ""
       }
     },
@@ -426,7 +435,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "sites": "https://www.libvio.run,https://www.libvio.mov,https://www.libvios.com,https://www.libhd.com,https://www.libvio.life",
+        "sites": "https://www.libvios.com,https://www.libhd.com,https://www.libvio.life",
         "filters": ""
       }
     },
@@ -821,6 +830,16 @@
       "changeable": 0
     },
     {
+      "name": "📁我的|115",
+      "key": "My115",
+      "type": 3,
+      "api": "csp_My115Amns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "name": "🔍fish|盘搜",
       "key": "PSfish",
       "type": 3,
@@ -848,6 +867,13 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "虎牙放映厅",
+      "type": 3,
+      "api": "csp_HuyaLiveAmns"
     }
   ],
   "parses": [
@@ -964,7 +990,6 @@
   "ads": [
     "mozai.4gtv.tv"
   ],
-  "lives": [],
   "ijk": [
     {
       "group": "软解码",
