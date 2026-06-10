@@ -442,7 +442,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://zhizhen1.top",
+        "sites": "http://www.miqk.cc",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
@@ -736,12 +736,6 @@
       "changeable": 1
     },
     {
-      "key": "爱看机器人",
-      "name": "🚒爱看┃（羊）",
-      "type": 3,
-      "api": "./js/爱看机器人.js"
-    },
-    {
       "key": "星辰影院",
       "name": "🪐星辰┃（羊）",
       "type": 3,
@@ -792,6 +786,14 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/酷酷.js"
+    },
+    {
+      "key": "csp_IkanBot",
+      "name": "👀爱看┃机器",
+      "type": 3,
+      "api": "csp_IkanBot",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "csp_Cjhj",
@@ -911,6 +913,14 @@
         "type": "rect",
         "ratio": 1.333
       }
+    },
+    {
+      "key": "csp_BeiLeHu",
+      "name": "🐅贝乐┃小虎",
+      "type": 3,
+      "api": "csp_BeiLeHu",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "csp_bilims",

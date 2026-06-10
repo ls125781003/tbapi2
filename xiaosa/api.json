@@ -780,6 +780,13 @@
             "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
+            "key": "修罗影视",
+            "name": "修罗｜影视",
+            "api": "csp_Xlys",
+            "type": 3,
+            "ext": "https://www.xlysw.ggff.net"
+        },
+        {
             "key": "瓜子影视",
             "name": "瓜子｜影视",
             "type": 3,
@@ -943,13 +950,6 @@
             "name": "荐片｜磁力",
             "api": "csp_JianPian",
             "type": 3
-        },
-        {
-            "key": "修罗",
-            "name": "修罗｜磁力",
-            "api": "csp_Xlys",
-            "type": 3,
-            "ext": "https://www.xlysw.ggff.net"
         },
         {
             "key": "七味",
