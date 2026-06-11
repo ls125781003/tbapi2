@@ -871,9 +871,10 @@
   ],
   "lives": [
     {
-      "name": "虎牙放映厅",
-      "type": 3,
-      "api": "csp_HuyaLiveAmns"
+      "name": "Live",
+      "type": 0,
+      "url": "https://mytv6688.xyz/aowu/livedemo.m3u",
+      "playerType": 2
     }
   ],
   "parses": [

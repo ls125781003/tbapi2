@@ -1,6 +1,6 @@
 //     当前接口：http://mytv6688.xyz/aowu/config.webp
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/11/space_img/94a36dc3-5bd1-4fa3-9b22-72eb1235d659.png;md5;1a87868b8972d2b843a0be90d045e690",
+    "spider": "https://nos.netease.com/youdata-netease/public-utilUpload-w2kQWLoDRXY1DmKEn5EWu5.zip;md5;fd37de6ab55c19be0c5243613787a2e0",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
@@ -872,10 +872,10 @@
     ],
     "lives": [
         {
-            "name": "虎牙放映厅",
-            "key": "HuyaLive",
-            "type": 3,
-            "api": "csp_HuyaLiveAmns"
+            "name": "Live",
+            "type": 0,
+            "url": "https://mytv6688.xyz/aowu/livedemo.m3u",
+            "playerType": 2
         }
     ],
     "parses": [
