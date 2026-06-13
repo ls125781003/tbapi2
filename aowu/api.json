@@ -16,7 +16,7 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260612",
+      "name": "更新日期:20260614",
       "key": "AwDouban",
       "type": 3,
       "api": "csp_DoubanAmns",
@@ -662,6 +662,15 @@
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"
     },
     {
+      "name": "🏆咖啡|体育",
+      "key": "KafLive",
+      "type": 3,
+      "api": "csp_KafLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "name": "🎉Bili|合集",
       "key": "BiliHeji",
       "type": 3,
@@ -883,10 +892,9 @@
   ],
   "lives": [
     {
-      "name": "Live",
-      "type": 0,
-      "url": "https://mytv6688.xyz/aowu/livedemo.m3u",
-      "playerType": 2
+      "name": "直播源",
+      "type": 3,
+      "api": "csp_KafLiveAmns"
     }
   ],
   "parses": [

@@ -1,6 +1,6 @@
-//     当前接口：http://mytv6688.xyz/aowu/config.webp
+//     当前接口：http://itv666.cc/aowu/config.webp
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/12/space_img/0374fde1-acf9-4d26-a8c4-b4a86c9d297e.png;md5;6394f85c6da0a007468ec522e64019fe",
+    "spider": "https://zl.wpscdn.cn/2026/06/14/space_img/90682464-540a-41a5-b980-b5ece07998f4.png;md5;ae34799022ea04bad51b3f9ce57147cf",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
@@ -17,7 +17,7 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
         },
         {
-            "name": "更新日期:20260612",
+            "name": "更新日期:20260614",
             "key": "AwDouban",
             "type": 3,
             "api": "csp_DoubanAmns",
@@ -663,6 +663,15 @@
             "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"
         },
         {
+            "name": "🏆咖啡|体育",
+            "key": "KafLive",
+            "type": 3,
+            "api": "csp_KafLiveAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
             "name": "🎉Bili|合集",
             "key": "BiliHeji",
             "type": 3,
@@ -884,9 +893,9 @@
     ],
     "lives": [
         {
-            "name": "Live",
-            "type": 0,
-            "url": "https://mytv6688.xyz/aowu/livedemo.m3u",
+            "key": "KafLive",
+            "type": 3,
+            "api": "csp_KafLiveAmns",
             "playerType": 2
         }
     ],
