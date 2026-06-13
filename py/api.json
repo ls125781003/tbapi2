@@ -36,12 +36,6 @@
 			"api": "./app/壹影视.py"
 		},
 		{
-            "key": "看客TV[APP]",
-            "name": "看客TV[APP]",
-            "type": 3,
-            "api": "./app/看客TV.py"
-        },
-        {
             "key": "剧迷TV[APP]",
             "name": "剧迷TV[APP]",
             "type": 3,
@@ -87,14 +81,6 @@
             }
 		},
 		{
-            "key": "TVB云播[Appfox]",
-            "name": "TVB云播[Appfox]",
-            "type": 3,
-            "changeable": 0,
-            "api": "./app/Appfox.py",
-            "ext": "http://app.hktvyb.cc"
-        },
-		{
 	        "key": "追番达人[Appfox]",
 	        "name": "追番达人[Appfox]",
 	        "type": 3,
@@ -106,13 +92,6 @@
 	        }
         },
 		{
-			"key": "呀哩4K[FeiApp]",
-			"name": "呀哩4K[FeiApp]",
-			"type": 3,
-			"api": "./app/FeiApp.py",
-			"ext": "https://ysc.yy-fun.cc/feiapp"
-		}, 
-		{
             "key": "全影视PRO[FeiApp]",
             "name": "全影视PRO[FeiApp]",
             "type": 3,
@@ -120,13 +99,6 @@
             "api": "./app/FeiApp.py",
             "ext": "http://ysb.yy-fun.cc/feiapp"
         },
-		{
-			"key": "森林动漫[FeiApp]",
-			"name": "森林动漫[FeiApp]",
-			"type": 3,
-			"api": "./app/FeiApp.py",
-			"ext": "https://ysa.yy-fun.cc/feiapp"
-		}, 
 		{
 			"key": "番喜[ApptoV5]",
 			"name": "番喜[ApptoV5]",
@@ -157,13 +129,6 @@
                 "name": "BILFUN影视大全",
                 "version": "4.1.8"
             }
-        },
-        {
-            "key": "剧海影视大全[AppMov]",
-            "name": "剧海影视大全[AppMov]",
-            "type": 3,
-            "api": "./app/AppMov.py",
-            "ext": "http://pqysdq.gxttkeji.cn:2026"
         },
         {
 			"key": "嘶哩嘶哩[skapp]",
@@ -210,13 +175,6 @@
 			}
 		}, 
 		{
-			"key": "Free影视[skapp]",
-			"name": "Free影视[skapp]",
-			"type": 3,
-			"api": "./app/skapp.py",
-			"ext": {"host": "https://sk.xiaoyaoys.top/skkkkkkk.txt", "key": "ygcnbcczduwydmrs", "iv": "4672921073143708"}
-		}, 
-		{
             "key": "麦田影院[AppV2]",
             "name": "麦田影院[AppV2]",
             "type": 3,
@@ -230,40 +188,6 @@
             "type": 3,
             "api": "./app/AppV2.py",
             "ext": "http://xingma.apidge.com/icciu_api.php/v1.vod"
-        },
-        {
-            "key": "星耀2K[AppV2]",
-            "name": "星耀2K[AppV2]",
-            "type": 3,
-            "api": "./app/AppV2.py",
-            "ext": " http://125.208.22.184:4567/api.php/app"
-        },
-        {
-            "key": "XYTY[AppV2]",
-            "name": "XYTY[AppV2]",
-            "type": 3,
-            "api": "./app/AppV2.py",
-            "ext": " http://111.170.151.121:7818/api.php/app"
-        },
-        {
-            "key": "LYY[AppV2]",
-            "name": "烈羽云[AppV2]",
-            "type": 3,
-            "api": "./app/AppV2.py",
-            "ext": {
-                "api": "http://bb4kcmslieyuyun.qijiyun.vip/api.php/app",
-                "ua": "Dart/2.14 (dart:io)"
-            }
-        },
-        {
-            "key": "JYY[AppV2]",
-            "name": "极影云[AppV2]",
-            "type": 3,
-            "api": "./app/AppV2.py",
-            "ext": {
-                "api": "http://101.201.171.207:802/api.php/app",
-                "ua": "Dart/2.14 (dart:io)"
-            }
         },
         {
             "key": "gotto[AppV2]",
@@ -282,21 +206,6 @@
 			"api": "./app/getapp3.4.6.py",
 			"ext": {"host": "https://www.gugu3.com", "key": "nKfZ8KX6JTNWRzTD"}
 		},
-		{
-            "key": "星星视频[xiaocao]",
-            "name": "星星视频[xiaocao]",
-            "type": 3,
-            "api": "./app/xiaocao.py",
-            "ext": {
-                "host": "https://h.jsyysm.com",
-                "app_id": "xingxingshipin",
-                "deviceid": "7d6c46dbfc1bff97",
-                "versionCode": "40000",
-                "UMENG_CHANNEL": "xxsp_sp01",
-                "package_name": "com.losa.daka",
-                "EncryptDomain": "O3jhaCOgUpTGcHDWgFoJfhG7yPdOnRL8"
-            }
-        },
 		{
             "key": "jxsp[Hmys]",
             "name": "九霄视频[Hmys]",
@@ -360,24 +269,6 @@
                 }
             }
         },
-		{
-			"key": "锦鲤短剧[web]",
-			"name": "锦鲤短剧[web]",
-			"type": 3,
-			"api": "./web/锦鲤短剧.py"
-		},
-		{
-			"key": "麻雀视频[web]",
-			"name": "麻雀视频[web]",
-			"type": 3,
-			"api": "./web/麻雀视频.py"
-		},
-		{
-			"key": "山有木兮[web]",
-			"name": "山有木兮[web]",
-			"type": 3,
-			"api": "./web/山有木兮.py"
-		},
 		{
                   "key": "proxy_artjx",
                   "name": "proxy_artjx",
