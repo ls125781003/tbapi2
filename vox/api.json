@@ -447,8 +447,7 @@
       "timeout": 60,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "类型": "短剧"
+      "changeable": 0
     },
     {
       "key": "csp_Jbdj",
@@ -456,8 +455,7 @@
       "type": 3,
       "api": "csp_Jhdj",
       "searchable": 1,
-      "changeable": 0,
-      "类型": "短剧"
+      "changeable": 0
     },
     {
       "key": "mifun",
@@ -469,19 +467,6 @@
       "ext": {
         "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
         "datakey": "GETMIFUNGEIMIFUN"
-      }
-    },
-    {
-      "key": "HG影视",
-      "name": "🌺HG┃[APP]",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://ios.hgyx.vip",
-        "datakey": "062dec75d039980e",
-        "ua": "Dart/3.5 (dart:io)"
       }
     },
     {
@@ -521,8 +506,7 @@
       "api": "csp_XBPQ",
       "timeout": 60,
       "ext": "./xb/夸克短剧.json",
-      "jar": "./jar/xbpq.jar",
-      "类型": "短剧"
+      "jar": "./jar/xbpq.jar"
     },
     {
       "key": "短剧夸克",
@@ -531,8 +515,7 @@
       "timeout": 60,
       "api": "csp_XBPQ",
       "ext": "./xb/短剧夸克.json",
-      "jar": "./jar/xbpq.jar",
-      "类型": "短剧"
+      "jar": "./jar/xbpq.jar"
     },
     {
       "key": "旺旺影视",
@@ -540,14 +523,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./xb/旺旺影视.json",
-      "jar": "./jar/xbpq.jar"
-    },
-    {
-      "key": "VS影视",
-      "name": "🍩VS┃[XBPQ]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./xb/VS影视.json",
       "jar": "./jar/xbpq.jar"
     },
     {
@@ -619,13 +594,6 @@
       "ext": "./js/蜻蜓FM.js"
     },
     {
-      "key": "戏曲大全",
-      "name": "🎭戏曲┃[听看]",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/戏曲大全.js"
-    },
-    {
       "key": "爱看资网",
       "name": "🚘爱看┃[网盘]",
       "type": 3,
@@ -656,13 +624,6 @@
       "ext": {
         "tabsSet": "磁力&网盘"
       }
-    },
-    {
-      "key": "电影港",
-      "name": "⛴️港湾┃[秒播]",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/电影港.js"
     },
     {
       "key": "人人电影",
@@ -860,7 +821,7 @@
       "name": "🐅贝乐┃[儿童]",
       "type": 3,
       "api": "csp_BeiLeHu",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0
     },
     {
@@ -884,6 +845,7 @@
       "name": "🏀酷克┃[体育]",
       "type": 4,
       "api": "http://jiduo.3116598.xyz/PHP/pkty.php",
+      "searchable": 0,
       "changeable": 1
     },
     {

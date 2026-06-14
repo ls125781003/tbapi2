@@ -1,6 +1,5 @@
-//     当前接口：http://itv666.cc/aowu/config.webp
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/14/space_img/90682464-540a-41a5-b980-b5ece07998f4.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+    "spider": "https://zl.wpscdn.cn/2026/06/14/space_img/9a77360e-93a3-40a4-bd96-05225a62130b.png;md5;b51dbb52311628f0ed390ab4b44066ea",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
