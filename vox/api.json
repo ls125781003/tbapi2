@@ -841,8 +841,24 @@
       }
     },
     {
+      "key": "csp_GuaziSport",
+      "name": "⚽瓜子┃[体育]",
+      "type": 3,
+      "api": "csp_GuaziSport",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_JuheSport",
+      "name": "⚽聚合┃[体育]",
+      "type": 3,
+      "api": "csp_JuheSport",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "酷克PHP",
-      "name": "🏀酷克┃[体育]",
+      "name": "⚽酷克┃[体育]",
       "type": 4,
       "api": "http://jiduo.3116598.xyz/PHP/pkty.php",
       "searchable": 0,
@@ -861,7 +877,7 @@
     },
     {
       "key": "AList",
-      "name": "😇网盘┃Alist",
+      "name": "😇Alist┃[网络]",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -873,7 +889,7 @@
     },
     {
       "key": "WebDAV",
-      "name": "🙃Web┃DAV",
+      "name": "🙃Web┃[网络]",
       "type": 3,
       "api": "csp_WebDAV",
       "searchable": 1,

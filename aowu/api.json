@@ -10,19 +10,17 @@
       "api": "csp_DoubanAmns",
       "indexs": 1,
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260614",
+      "name": "更新日期:20260616",
       "key": "AwDouban",
       "type": 3,
       "api": "csp_DoubanAmns",
       "indexs": 1,
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
@@ -33,7 +31,6 @@
       "type": 3,
       "api": "csp_AAConfigAmns",
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -806,7 +803,6 @@
       "type": 3,
       "api": "csp_MyLocalAmns",
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -816,7 +812,6 @@
       "type": 3,
       "api": "csp_MyQuarkAmns",
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -826,7 +821,6 @@
       "type": 3,
       "api": "csp_MyBaiduAmns",
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -836,7 +830,6 @@
       "type": 3,
       "api": "csp_MyUcAmns",
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -846,7 +839,6 @@
       "type": 3,
       "api": "csp_MyGuangyaAmns",
       "searchable": 0,
-      "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -856,7 +848,15 @@
       "type": 3,
       "api": "csp_My115Amns",
       "searchable": 0,
-      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "📁我的|DIY",
+      "key": "Diyre",
+      "type": 3,
+      "api": "csp_DiyreAmns",
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -866,7 +866,6 @@
       "type": 3,
       "api": "csp_PSfishAmns",
       "searchable": 1,
-      "filterable": 0,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -876,7 +875,6 @@
       "type": 3,
       "api": "csp_PSdjuAmns",
       "searchable": 1,
-      "filterable": 0,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -886,7 +884,7 @@
       "type": 3,
       "api": "csp_PushAmns",
       "searchable": 0,
-      "filterable": 0,
+      "quickSearch": 0,
       "changeable": 0
     }
   ],
