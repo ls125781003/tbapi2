@@ -1,5 +1,5 @@
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/16/space_img/ce0fe713-ebce-4bef-9c7b-e7f3df0c5c1e.png;md5;c2cc1bcea346faaef735e27c3cbf3967",
+    "spider": "https://zl.wpscdn.cn/2026/06/18/space_img/3c617977-b98d-4bdd-b9ae-616665643b91.png;md5;05fec6923ebac70078921b67d5afc891",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
@@ -15,7 +15,7 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
         },
         {
-            "name": "更新日期:20260616",
+            "name": "更新日期:20260618",
             "key": "AwDouban",
             "type": 3,
             "api": "csp_DoubanAmns",
@@ -242,7 +242,8 @@
             "changeable": 0,
             "ext": {
                 "sites": [
-                    "http://103.45.162.207:20720"
+                    "http://38.76.197.172:16969",
+                    "http://103.217.192.130:16969"
                 ],
                 "filters": "https://nos.netease.com/youdata-netease/public-utilUpload-vcNMZx1iu3Tkzr4fckQvoW.gz"
             }
@@ -324,16 +325,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
-        },
-        {
-            "name": "☁️指南|4K",
-            "key": "Zhinan",
-            "type": 3,
-            "api": "csp_ZhinanAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://4kzn.com"
         },
         {
             "name": "🧩橘汁|快速",

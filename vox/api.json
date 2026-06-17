@@ -41,6 +41,24 @@
   ],
   "sites": [
     {
+      "key": "csp_Douban",
+      "name": "🥰豆瓣┃[导航]",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "indexs": 1,
+      "ext": "./json/douban.json"
+    },
+    {
+      "key": "csp_Config",
+      "name": "😊配置┃[设置]",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
       "key": "Nostr",
       "name": "🎿推荐┃[盘搜]",
       "type": 3,
@@ -62,14 +80,13 @@
       "homePage": "./html/Eclipse.html"
     },
     {
-      "key": "csp_Douban",
-      "name": "🥰豆瓣┃[导航]",
+      "key": "csp_MakkaPakka",
+      "name": "😊风向┃[导航]",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_MakkaPakka",
       "searchable": 0,
-      "changeable": 1,
       "indexs": 1,
-      "ext": "./json/douban.json"
+      "changeable": 0
     },
     {
       "key": "csp_TgDouban",
@@ -82,14 +99,6 @@
       "ext": {
         "filters": "./json/douban.json"
       }
-    },
-    {
-      "key": "csp_Config",
-      "name": "😊配置┃[设置]",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0
     },
     {
       "key": "本地",
