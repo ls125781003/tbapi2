@@ -15,7 +15,7 @@
     },
     {
       "key": "Doubana",
-      "name": "🐮【更新日期:20260614】🐮",
+      "name": "🐮【更新日期:20260618】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -181,6 +181,22 @@
       "changeable": 1
     },
     {
+      "key": "WexV6DaShiXiong",
+      "name": "💥师兄┃秒播💥",
+      "type": 3,
+      "api": "csp_WexV6DaShiXiongGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexV6TeGou",
+      "name": "💥太狗┃秒播💥",
+      "type": 3,
+      "api": "csp_WexV6TeGouGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "WexYiYs",
       "name": "💥伊影┃秒播💥",
       "type": 3,
@@ -201,14 +217,6 @@
       "name": "🎇伯伯┃秒播🎇",
       "type": 3,
       "api": "csp_WexBoBoGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexBtTwo",
-      "name": "🎇鼻涕┃秒播🎇",
-      "type": 3,
-      "api": "csp_WexBtTwoGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -293,10 +301,10 @@
       "changeable": 1
     },
     {
-      "key": "AnimeMoDu",
-      "name": "🤡魔都┃动漫🤡",
+      "key": "AnimeFanShu",
+      "name": "🤡番薯┃动漫🤡",
       "type": 3,
-      "api": "csp_AnimeMoDuGuard",
+      "api": "csp_AnimeFanShuGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -321,6 +329,14 @@
       "name": "🤡喵呜┃动漫🤡",
       "type": 3,
       "api": "csp_AnimeMiaoWuGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AnimeMoDu",
+      "name": "🤡魔都┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeMoDuGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -761,34 +777,10 @@
       "changeable": 0
     },
     {
-      "key": "SoTjSo",
-      "name": "🎠太极┃综合🎠",
-      "type": 3,
-      "api": "csp_SoTjSoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoAiPan",
-      "name": "🎠给力┃综合🎠",
-      "type": 3,
-      "api": "csp_SoAiPanGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "So97So",
       "name": "🎠九七┃综合🎠",
       "type": 3,
       "api": "csp_So97SoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoZhaoPanSo",
-      "name": "🎠找盘┃综合🎠",
-      "type": 3,
-      "api": "csp_SoZhaoPanSoGuard",
       "searchable": 1,
       "changeable": 0
     },
