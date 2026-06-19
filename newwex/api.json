@@ -15,7 +15,7 @@
     },
     {
       "key": "Doubana",
-      "name": "🐮【更新日期:20260618】🐮",
+      "name": "🐮【更新日期:20260619】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -632,6 +632,17 @@
       "api": "csp_SportKanqiuGuard",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "SportKaFei",
+      "name": "🌐咖啡┃体育🌐",
+      "type": 3,
+      "api": "csp_SportKaFeiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "SportWwe",
