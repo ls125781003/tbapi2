@@ -1,5 +1,5 @@
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/20/space_img/1222fd9e-d07d-4174-8157-21d3ac5db43a.png;md5;9b4f09c5743cbefd26c7991134fd9708",
+    "spider": "https://zl.wpscdn.cn/2026/06/21/space_img/5d0cbd9b-56a1-4eb5-8676-4bf3d222718d.png;md5;56c4913081f2121cd42c6b8fe5ebd39b",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
@@ -15,7 +15,7 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
         },
         {
-            "name": "更新日期:20260620",
+            "name": "更新日期:20260621",
             "key": "AwDouban",
             "type": 3,
             "api": "csp_DoubanAmns",
@@ -24,6 +24,16 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
+        },
+        {
+            "name": "🔥360推荐",
+            "key": "Y360",
+            "type": 3,
+            "api": "csp_Y360Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://file.icve.com.cn/file_doc/121/281/1E74668FD5125AA70977BC98A1B297A1.aowu"
         },
         {
             "name": "⚙️配置|中心",
@@ -72,17 +82,14 @@
             }
         },
         {
-            "name": "⭐瓜子|秒播",
-            "key": "Guazi",
+            "name": "⭐夏天|秒播",
+            "key": "NewGrV2",
             "type": 3,
-            "api": "csp_GuaziAmns",
+            "api": "csp_NewGrV2Amns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": {
-                "sites": "",
-                "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
-            }
+            "ext": "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
         },
         {
             "name": "⭐韩剧|秒播",
@@ -94,14 +101,17 @@
             "changeable": 0
         },
         {
-            "name": "⭐夏天|秒播",
-            "key": "NewGrV2",
+            "name": "⭐瓜子|秒播",
+            "key": "Guazi",
             "type": 3,
-            "api": "csp_NewGrV2Amns",
+            "api": "csp_GuaziAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
+            "ext": {
+                "sites": "",
+                "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
+            }
         },
         {
             "name": "📦①|独家App",
@@ -327,71 +337,43 @@
             "ext": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
         },
         {
-            "name": "🧩橘汁|快速",
-            "key": "Woshinidie",
+            "name": "🐱嗷嗚|动漫",
+            "key": "AowuDmAw",
             "type": 3,
-            "jar": "https://zl.wpscdn.cn/2026/06/01/space_img/8ec1dbc0-101c-410c-bfe1-0b47a2e6d54c.png;md5;76d835a5c630383e9fd851399579220c",
-            "api": "csp_Woshinidie",
+            "api": "csp_AowuDmAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": {
-                "host": "",
-                "version": "3.0.2.1",
-                "abid": "8192",
-                "pkg": "com.lxf.snzlcgtzxyx",
-                "keys": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==,OC1A06E197EF10CF3F6058CA7A803B5E",
-                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "pub": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"
-            }
+            "ext": "563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b"
         },
         {
-            "name": "🧩荐片|快速",
-            "key": "JPian",
+            "name": "🐱番薯|动漫",
+            "key": "FanShu",
             "type": 3,
-            "api": "csp_JPianAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
-        },
-        {
-            "name": "🧩热播|快速",
-            "key": "Rbys",
-            "type": 3,
-            "api": "csp_RbysAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://v.rbotv.cn"
-        },
-        {
-            "name": "🧩金牌|快速",
-            "key": "JinPai",
-            "type": 3,
-            "api": "csp_JinPaiAmns",
+            "api": "csp_FanShuAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
         },
         {
-            "name": "🧩伊外|快速",
-            "key": "YIys",
+            "name": "🐱番茶|动漫",
+            "key": "AowuDmFc",
             "type": 3,
-            "api": "csp_YIysAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🧩杜北|快速",
-            "key": "Dubk",
-            "type": 3,
-            "api": "csp_DubkAmns",
+            "api": "csp_AowuDmAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
+            "ext": "a2a157143fce50cabe524135fd3fb26e4af09034942cb186addd2360d64a7fb5c9b7ddaede42dd983c638ddd5064f276cfa6afb8c43429de354b19c59f234352d43c095b60cf88bba8346f1b792fdc917ed229f084939e631faf8eed7cc1d53bdfd143be9e1c38ef8228663806c2e74f046ea6dae90f06581eafc6b6a4ee34ae6ac583ae5beb6bc49e710536a49f66feb74afc1950841752c37975c85f1b60cc0408b4f3b4c80e2b187fe843378e7ebfbfcd128e48a2195bfc5d1104cfc58ed98ccf5c17428aafdce4d3b14ada75f28c5c2f8856"
+        },
+        {
+            "name": "🐱喵物|动漫",
+            "key": "AowuDmMw",
+            "type": 3,
+            "api": "csp_AowuDmAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
         },
         {
             "name": "🔗Gaze|2K",
@@ -438,45 +420,6 @@
                 "sites": "https://www.libvios.com,https://www.libhd.com,https://www.libvio.life",
                 "filters": ""
             }
-        },
-        {
-            "name": "🐱嗷嗚|动漫",
-            "key": "AowuDmAw",
-            "type": 3,
-            "api": "csp_AowuDmAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b"
-        },
-        {
-            "name": "🐱番薯|动漫",
-            "key": "FanShu",
-            "type": 3,
-            "api": "csp_FanShuAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🐱番茶|动漫",
-            "key": "AowuDmFc",
-            "type": 3,
-            "api": "csp_AowuDmAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "a2a157143fce50cabe524135fd3fb26e4af09034942cb186addd2360d64a7fb5c9b7ddaede42dd983c638ddd5064f276cfa6afb8c43429de354b19c59f234352d43c095b60cf88bba8346f1b792fdc917ed229f084939e631faf8eed7cc1d53bdfd143be9e1c38ef8228663806c2e74f046ea6dae90f06581eafc6b6a4ee34ae6ac583ae5beb6bc49e710536a49f66feb74afc1950841752c37975c85f1b60cc0408b4f3b4c80e2b187fe843378e7ebfbfcd128e48a2195bfc5d1104cfc58ed98ccf5c17428aafdce4d3b14ada75f28c5c2f8856"
-        },
-        {
-            "name": "🐱喵物|动漫",
-            "key": "AowuDmMw",
-            "type": 3,
-            "api": "csp_AowuDmAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
         },
         {
             "name": "🎬嗷嗚|漫剧",
@@ -557,6 +500,82 @@
             "quickSearch": 1,
             "changeable": 0,
             "genre": "shortdrama"
+        },
+        {
+            "name": "🧩橘汁|快速",
+            "key": "Woshinidie",
+            "type": 3,
+            "jar": "https://zl.wpscdn.cn/2026/06/01/space_img/8ec1dbc0-101c-410c-bfe1-0b47a2e6d54c.png;md5;76d835a5c630383e9fd851399579220c",
+            "api": "csp_Woshinidie",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "host": "",
+                "version": "3.0.2.1",
+                "abid": "8192",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "keys": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==,OC1A06E197EF10CF3F6058CA7A803B5E",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "pub": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"
+            }
+        },
+        {
+            "name": "🧩金牌|快速",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "name": "🧩荐片|快速",
+            "key": "JPian",
+            "type": 3,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
+        },
+        {
+            "name": "🧩热播|快速",
+            "key": "Rbys",
+            "type": 3,
+            "api": "csp_RbysAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "name": "🧩杜北|快速",
+            "key": "Dubk",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
+        },
+        {
+            "name": "🧩伊外|快速",
+            "key": "YIys",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "name": "🧩爱看|采集",
+            "key": "AiBot",
+            "type": 3,
+            "api": "csp_AiBotAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "name": "🌍爱瓜|墙外",
