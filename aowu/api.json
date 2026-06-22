@@ -15,7 +15,7 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260621",
+      "name": "更新日期:20260622",
       "key": "AwDouban",
       "type": 3,
       "api": "csp_DoubanAmns",
@@ -278,6 +278,22 @@
           "https://www.zhizhen8.click"
         ],
         "filters": "https://nos.netease.com/youdata-netease/public-utilUpload-s6K76HZouKrRvZWR9sSwS6.gz"
+      }
+    },
+    {
+      "name": "☁️闪电|4K",
+      "key": "yxWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "sites": [
+          "http://sd.sduc.site",
+          "http://www.xiaocgege.shop"
+        ],
+        "filters": "https://cdn.waimaimingtang.com/file/images/bwc/20260622233504-cafac189e9.aowu"
       }
     },
     {
