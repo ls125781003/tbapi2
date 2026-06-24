@@ -257,7 +257,7 @@
         "cookie": "",
         "filters": "./json/pinglian.json",
         "sites": "https://pinglian.lol",
-        "proxy": "proxy"
+        "proxy": "noproxy"
       }
     },
     {
