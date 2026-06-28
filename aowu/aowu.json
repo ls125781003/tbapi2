@@ -1,5 +1,5 @@
 {
-    "spider": "https://zl.wpscdn.cn/2026/06/27/space_img/c74367d2-81c1-4f87-b808-2441e95e99e4.png;md5;6d682c936700dce9d70d5aba69b7b95b",
+    "spider": "https://zl.wpscdn.cn/2026/06/28/space_img/c5a5d9c2-5f0c-419c-b388-ac5b0f1a64a0.png;md5;0e1439a2e9e227aad3de4ae3987d3b73",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -16,7 +16,7 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
         },
         {
-            "name": "更新日期:20260627",
+            "name": "更新日期:20260628",
             "key": "AwDouban",
             "type": 3,
             "api": "csp_DoubanAmns",
