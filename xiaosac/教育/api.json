@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "兔小贝",
-            "name": "兔小贝｜首页",
+            "name": "兔小贝 • 首页",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/兔小贝.js",
@@ -16,7 +16,7 @@
         },
         {
             "key": "配置中心",
-            "name": "配置｜中心",
+            "name": "配置 • 中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -29,7 +29,7 @@
         },
         {
             "key": "贝乐虎",
-            "name": "贝乐虎｜儿童",
+            "name": "贝乐虎 • 儿童",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/贝乐虎.js",
@@ -40,7 +40,7 @@
         },
         {
             "key": "儿童拼音",
-            "name": "儿童拼音｜哔哩",
+            "name": "儿童拼音 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -57,7 +57,7 @@
         },
         {
             "key": "儿童识字",
-            "name": "儿童识字｜哔哩",
+            "name": "儿童识字 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -74,7 +74,7 @@
         },
         {
             "key": "儿童英语",
-            "name": "儿童英语｜哔哩",
+            "name": "儿童英语 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -91,7 +91,7 @@
         },
         {
             "key": "儿童硬笔",
-            "name": "儿童硬笔｜哔哩",
+            "name": "儿童硬笔 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -108,7 +108,7 @@
         },
         {
             "key": "儿童思维",
-            "name": "儿童思维｜哔哩",
+            "name": "儿童思维 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -125,7 +125,7 @@
         },
         {
             "key": "儿童口才",
-            "name": "儿童口才｜哔哩",
+            "name": "儿童口才 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -142,7 +142,7 @@
         },
         {
             "key": "儿童编程",
-            "name": "儿童编程｜哔哩",
+            "name": "儿童编程 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -159,7 +159,7 @@
         },
         {
             "key": "儿童武术",
-            "name": "儿童武术｜哔哩",
+            "name": "儿童武术 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -176,7 +176,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "少儿教育｜哔哩",
+            "name": "少儿教育 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -193,7 +193,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "小学课堂｜哔哩",
+            "name": "小学课堂 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -210,7 +210,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "初中课堂｜哔哩",
+            "name": "初中课堂 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -227,7 +227,7 @@
         },
         {
             "key": "高中课堂",
-            "name": "高中课堂｜哔哩",
+            "name": "高中课堂 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -244,7 +244,7 @@
         },
         {
             "key": "外语课堂",
-            "name": "外语课堂｜哔哩",
+            "name": "外语课堂 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -261,7 +261,7 @@
         },
         {
             "key": "小灯塔百科",
-            "name": "小灯塔百科｜哔哩",
+            "name": "小灯塔百科 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -278,7 +278,7 @@
         },
         {
             "key": "小灯塔科学",
-            "name": "小灯塔科学｜哔哩",
+            "name": "小灯塔科学 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -295,7 +295,7 @@
         },
         {
             "key": "小灯塔地理",
-            "name": "小灯塔地理｜哔哩",
+            "name": "小灯塔地理 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -312,7 +312,7 @@
         },
         {
             "key": "小灯塔国学",
-            "name": "小灯塔国学｜哔哩",
+            "name": "小灯塔国学 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -329,7 +329,7 @@
         },
         {
             "key": "小灯塔人文",
-            "name": "小灯塔人文｜哔哩",
+            "name": "小灯塔人文 • 哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -346,7 +346,7 @@
         },
         {
             "key": "版本信息",
-            "name": "版本｜信息",
+            "name": "版本 • 信息",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -356,7 +356,7 @@
         },
         {
             "key": "push_agent",
-            "name": "手机｜推送",
+            "name": "手机 • 推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,

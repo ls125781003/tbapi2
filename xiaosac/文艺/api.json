@@ -5,13 +5,13 @@
     "sites": [
         {
             "key": "网络直播",
-            "name": "网络｜直播",
+            "name": "网络 • 直播",
             "type": 3,
             "api": "./py/网络直播.py"
         },
         {
             "key": "配置中心",
-            "name": "配置｜中心",
+            "name": "配置 • 中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -24,13 +24,13 @@
         },
         {
             "key": "哔哩直播",
-            "name": "哔哩｜直播",
+            "name": "哔哩 • 直播",
             "type": 3,
             "api": "./py/哔哩直播.py"
         },
         {
             "key": "88看球",
-            "name": "88｜看球",
+            "name": "88 • 看球",
             "type": 3,
             "api": "csp_Kanqiu",
             "gridview": 3,
@@ -40,7 +40,7 @@
         },
         {
             "key": "球通体育",
-            "name": "球通｜体育",
+            "name": "球通 • 体育",
             "type": 3,
             "api": "csp_QiutongTY",
             "style": {
@@ -49,7 +49,7 @@
         },
         {
             "key": "瓜子体育",
-            "name": "瓜子｜体育",
+            "name": "瓜子 • 体育",
             "type": 3,
             "api": "csp_GuaziTY",
             "style": {
@@ -58,7 +58,7 @@
         },
         {
             "key": "咖啡体育",
-            "name": "咖啡｜体育",
+            "name": "咖啡 • 体育",
             "type": 3,
             "api": "csp_KafeiTY",
             "style": {
@@ -67,7 +67,7 @@
         },
         {
             "key": "919体育",
-            "name": "919｜体育",
+            "name": "919 • 体育",
             "type": 3,
             "api": "csp_919TY",
             "style": {
@@ -76,7 +76,7 @@
         },
         {
             "key": "呦呦DJ",
-            "name": "呦呦｜DJ",
+            "name": "呦呦 • DJ",
             "type": 3,
             "api": "csp_Djuu",
             "style": {
@@ -85,7 +85,7 @@
         },
         {
             "key": "轮回DJ",
-            "name": "轮回｜DJ",
+            "name": "轮回 • DJ",
             "type": 3,
             "api": "csp_Djlh",
             "style": {
@@ -94,7 +94,7 @@
         },
         {
             "key": "蜻蜓FM",
-            "name": "蜻蜓｜FM",
+            "name": "蜻蜓 • FM",
             "type": 3,
             "api": "csp_QingtingFM",
             "style": {
@@ -103,7 +103,7 @@
         },
         {
             "key": "戏曲多多",
-            "name": "戏曲｜多多",
+            "name": "戏曲 • 多多",
             "type": 3,
             "api": "csp_AppLY",
             "style": {
@@ -112,13 +112,13 @@
         },
         {
             "key": "爱听音乐",
-            "name": "爱听｜音乐",
+            "name": "爱听 • 音乐",
             "type": 3,
             "api": "./py/爱听音乐.py"
         },
         {
             "key": "世界听书",
-            "name": "世界｜听书",
+            "name": "世界 • 听书",
             "type": 3,
             "api": "csp_TingShijie",
             "style": {
@@ -127,7 +127,7 @@
         },
         {
             "key": "博看听书",
-            "name": "博看｜听书",
+            "name": "博看 • 听书",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/博看听书.js",
@@ -137,7 +137,7 @@
         },
         {
             "key": "爱上你听书网",
-            "name": "爱上你｜听书",
+            "name": "爱上你 • 听书",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱上你听书网.js",
@@ -147,7 +147,7 @@
         },
         {
             "key": "有声绘本网",
-            "name": "有声绘本｜听书",
+            "name": "有声绘本 • 听书",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/有声绘本网.js",
@@ -157,7 +157,7 @@
         },
         {
             "key": "评书随身听",
-            "name": "评书｜在线",
+            "name": "评书 • 在线",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/评书随身听.js",
@@ -167,7 +167,7 @@
         },
         {
             "key": "哔哩哔哩演唱会",
-            "name": "哔哩｜音乐",
+            "name": "哔哩 • 音乐",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -184,7 +184,7 @@
         },
         {
             "key": "哔哩哔哩听书",
-            "name": "哔哩｜听书",
+            "name": "哔哩 • 听书",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -201,7 +201,7 @@
         },
         {
             "key": "哔哩哔哩相声",
-            "name": "哔哩｜相声",
+            "name": "哔哩 • 相声",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -218,7 +218,7 @@
         },
         {
             "key": "哔哩哔哩小品",
-            "name": "哔哩｜小品",
+            "name": "哔哩 • 小品",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -235,7 +235,7 @@
         },
         {
             "key": "哔哩哔哩戏曲",
-            "name": "哔哩｜戏曲",
+            "name": "哔哩 • 戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -252,7 +252,7 @@
         },
         {
             "key": "急救教学",
-            "name": "急救｜教学",
+            "name": "急救 • 教学",
             "type": 3,
             "api": "csp_FirstAid",
             "searchable": 0,
@@ -266,7 +266,7 @@
         },
         {
             "key": "养生堂",
-            "name": "养生｜知识",
+            "name": "养生 • 知识",
             "type": 3,
             "api": "csp_YST",
             "searchable": 0,
@@ -279,7 +279,7 @@
         },
         {
             "key": "版本信息",
-            "name": "版本｜信息",
+            "name": "版本 • 信息",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -289,7 +289,7 @@
         },
         {
             "key": "push_agent",
-            "name": "手机｜推送",
+            "name": "手机 • 推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,

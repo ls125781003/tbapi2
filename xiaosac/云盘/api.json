@@ -5,14 +5,14 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "云盘｜首页",
+            "name": "云盘 • 首页",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "配置中心",
-            "name": "配置｜中心",
+            "name": "配置 • 中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -25,13 +25,13 @@
         },
         {
             "key": "本地",
-            "name": "本地｜视频",
+            "name": "本地 • 视频",
             "type": 3,
             "api": "csp_LocalFile"
         },
         {
             "key": "阿里云盘",
-            "name": "阿里｜云盘",
+            "name": "阿里 • 云盘",
             "type": 3,
             "api": "csp_PanAli",
             "searchable": 0,
@@ -44,7 +44,7 @@
         },
         {
             "key": "夸克网盘",
-            "name": "夸克｜网盘",
+            "name": "夸克 • 网盘",
             "type": 3,
             "api": "csp_PanQuark",
             "searchable": 0,
@@ -57,7 +57,7 @@
         },
         {
             "key": "UC网盘",
-            "name": "UC｜网盘",
+            "name": "UC • 网盘",
             "type": 3,
             "api": "csp_PanUC",
             "searchable": 0,
@@ -70,7 +70,7 @@
         },
         {
             "key": "百度网盘",
-            "name": "百度｜网盘",
+            "name": "百度 • 网盘",
             "type": 3,
             "api": "csp_PanBaidu",
             "searchable": 0,
@@ -83,7 +83,7 @@
         },
         {
             "key": "玩偶",
-            "name": "玩偶｜4K",
+            "name": "玩偶 • 4K",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -101,7 +101,7 @@
         },
         {
             "key": "快映",
-            "name": "快映｜4K",
+            "name": "快映 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -117,7 +117,7 @@
         },
         {
             "key": "木偶",
-            "name": "木偶｜4K",
+            "name": "木偶 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -136,7 +136,7 @@
         },
         {
             "key": "蜡笔",
-            "name": "蜡笔｜4K",
+            "name": "蜡笔 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -155,7 +155,7 @@
         },
         {
             "key": "至臻",
-            "name": "至臻｜4K",
+            "name": "至臻 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -173,7 +173,7 @@
         },
         {
             "key": "多多",
-            "name": "多多｜4K",
+            "name": "多多 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -191,7 +191,7 @@
         },
         {
             "key": "欧哥",
-            "name": "欧哥｜4K",
+            "name": "欧哥 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -210,7 +210,7 @@
         },
         {
             "key": "二小",
-            "name": "二小｜4K",
+            "name": "二小 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -228,7 +228,7 @@
         },
         {
             "key": "虎斑",
-            "name": "虎斑｜4K",
+            "name": "虎斑 • 4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -244,7 +244,7 @@
         },
         {
             "key": "夸父",
-            "name": "夸父｜4K",
+            "name": "夸父 • 4K",
             "type": 3,
             "api": "csp_PanWebShareKF",
             "searchable": 1,
@@ -264,7 +264,7 @@
         },
         {
             "key": "盘它",
-            "name": "盘它｜4K",
+            "name": "盘它 • 4K",
             "type": 3,
             "api": "csp_PanWebSharePT",
             "searchable": 1,
@@ -277,7 +277,7 @@
         },
         {
             "key": "123",
-            "name": "123｜4K",
+            "name": "123 • 4K",
             "type": 3,
             "api": "csp_PanWebShare123",
             "searchable": 1,
@@ -297,7 +297,7 @@
         },
         {
             "key": "指南",
-            "name": "指南｜4K",
+            "name": "指南 • 4K",
             "type": 3,
             "api": "csp_4KZhinan",
             "searchable": 1,
@@ -307,7 +307,7 @@
         },
         {
             "key": "人人",
-            "name": "人人｜4K",
+            "name": "人人 • 4K",
             "type": 3,
             "api": "csp_RenRen",
             "searchable": 1,
@@ -317,7 +317,7 @@
         },
         {
             "key": "即刻",
-            "name": "即刻｜4K",
+            "name": "即刻 • 4K",
             "type": 3,
             "api": "csp_Jike",
             "searchable": 1,
@@ -330,7 +330,7 @@
         },
         {
             "key": "双星",
-            "name": "双星｜4K",
+            "name": "双星 • 4K",
             "type": 3,
             "api": "csp_ShuangXing",
             "searchable": 1,
@@ -343,7 +343,7 @@
         },
         {
             "key": "盘搜",
-            "name": "盘搜｜搜索",
+            "name": "盘搜 • 搜索",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -353,7 +353,7 @@
         },
         {
             "key": "古哥",
-            "name": "古哥｜搜索",
+            "name": "古哥 • 搜索",
             "type": 3,
             "api": "csp_GugeSo",
             "searchable": 1,
@@ -362,18 +362,8 @@
             "timeout": 60
         },
         {
-            "key": "兄弟",
-            "name": "兄弟｜搜索",
-            "type": 3,
-            "api": "csp_XiongdiPan",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
             "key": "百酷",
-            "name": "百酷｜搜索",
+            "name": "百酷 • 搜索",
             "type": 3,
             "api": "csp_Baiku",
             "searchable": 1,
@@ -383,7 +373,7 @@
         },
         {
             "key": "米搜",
-            "name": "米搜｜搜索",
+            "name": "米搜 • 搜索",
             "type": 3,
             "api": "csp_MiSou",
             "searchable": 1,
@@ -393,7 +383,7 @@
         },
         {
             "key": "鬼鬼",
-            "name": "鬼鬼｜搜索",
+            "name": "鬼鬼 • 搜索",
             "type": 3,
             "api": "csp_GuiGui",
             "searchable": 1,
@@ -403,7 +393,7 @@
         },
         {
             "key": "混合",
-            "name": "混合｜搜索",
+            "name": "混合 • 搜索",
             "type": 3,
             "api": "csp_HunHePan",
             "searchable": 1,
@@ -413,7 +403,7 @@
         },
         {
             "key": "天翼",
-            "name": "天翼｜搜索",
+            "name": "天翼 • 搜索",
             "type": 3,
             "api": "csp_TianYiSou",
             "searchable": 1,
@@ -423,7 +413,7 @@
         },
         {
             "key": "趣盘",
-            "name": "趣盘｜搜索",
+            "name": "趣盘 • 搜索",
             "type": 3,
             "api": "csp_QuPanSo",
             "searchable": 1,
@@ -433,7 +423,7 @@
         },
         {
             "key": "版本信息",
-            "name": "版本｜信息",
+            "name": "版本 • 信息",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -443,7 +433,7 @@
         },
         {
             "key": "push_agent",
-            "name": "手机｜推送",
+            "name": "手机 • 推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,

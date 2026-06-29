@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "哆啦新番社",
-            "name": "哆啦｜新番社",
+            "name": "哆啦 • 新番社",
             "type": 3,
             "api": "csp_XBPQ",
             "style": {
@@ -15,14 +15,14 @@
         },
         {
             "key": "Anime1",
-            "name": "A1｜动漫",
+            "name": "A1 • 动漫",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/Anime1.js"
         },
         {
             "key": "漫国动漫",
-            "name": "漫国丨动漫",
+            "name": "漫国 • 动漫",
             "type": 3,
             "searchable": 1,
             "api": "csp_AppSy",
@@ -35,7 +35,7 @@
         },
         {
             "key": "方舟动漫",
-            "name": "方舟丨动漫",
+            "name": "方舟 • 动漫",
             "type": 3,
             "searchable": 1,
             "api": "csp_AppGet",
@@ -47,7 +47,7 @@
         },
         {
             "key": "曼波动漫",
-            "name": "曼波｜动漫",
+            "name": "曼波 • 动漫",
             "type": 3,
             "searchable": 1,
             "api": "csp_AppGet",
@@ -59,7 +59,7 @@
         },
         {
             "key": "咕咕动漫",
-            "name": "咕咕｜动漫",
+            "name": "咕咕 • 动漫",
             "type": 3,
             "searchable": 1,
             "api": "csp_AppGet",
@@ -71,28 +71,28 @@
         },
         {
             "key": "巴士动漫",
-            "name": "巴士｜动漫",
+            "name": "巴士 • 动漫",
             "type": 3,
             "api": "csp_XYQHiker",
             "ext": "./XYQHiker/巴士动漫.json"
         },
         {
             "key": "路漫漫",
-            "name": "路漫漫｜动漫",
+            "name": "路漫漫 • 动漫",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/路漫漫.js"
         },
         {
             "key": "去看吧",
-            "name": "去看吧｜动漫",
+            "name": "去看吧 • 动漫",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/去看吧.js"
         },
         {
             "key": "版本信息",
-            "name": "版本｜信息",
+            "name": "版本 • 信息",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -102,7 +102,7 @@
         },
         {
             "key": "push_agent",
-            "name": "手机｜推送",
+            "name": "手机 • 推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
