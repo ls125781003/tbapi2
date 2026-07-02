@@ -276,6 +276,22 @@
       }
     },
     {
+      "key": "123社区",
+      "name": "🥉社区┃[网盘]",
+      "type": 3,
+      "timeout": 60,
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_Pan123Fx",
+      "ext": {
+        "cookie": "",
+        "filters": "./json/pan123fx.json",
+        "comment": ""
+      }
+    },
+    {
       "key": "csp_QiWei",
       "name": "🏇七味┃[网盘]",
       "type": 3,
@@ -304,7 +320,8 @@
       "timeout": 60,
       "ext": {
         "filters": "./json/xxzn.json",
-        "sites": "https://4kzn.com"
+        "sites": "https://4kzn.com",
+        "proxy": "proxy"
       }
     },
     {
@@ -929,6 +946,18 @@
       "timeout": 60,
       "playerType": 2,
       "ext": "./json/webdav.json"
+    },
+    {
+      "key": "Samba",
+      "name": "💎Samba┃[本地]",
+      "type": 3,
+      "api": "csp_Samba",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./json/samba.txt"
     },
     {
       "key": "商店",
