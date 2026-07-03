@@ -5,41 +5,41 @@
   "logo": "http://rihou.cc:88/1.gif",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-        {
-            "name": "📡体育直播",
-            "type": 0,
-            "url": "http://82.156.243.185:33389/fwc.m3u"
-        },
-        {
-            "name": "📡咪咕直播",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "ua": "okHttp/Mod-1.1.0"
-        },
-        {
-            "name": "📡虎牙",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-            "ua": ""
-        },
-        {
-            "name": "📡斗鱼",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-            "ua": ""
-        },
-        {
-            "name": "📡YY",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-            "ua": ""
-        },
-        {
-            "name": "📡BL",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/bililive.m3u",
-            "ua": ""
-        }
+    {
+      "name": "📡体育直播",
+      "type": 0,
+      "url": "http://82.156.243.185:33389/fwc.m3u"
+    },
+    {
+      "name": "📡咪咕直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "okHttp/Mod-1.1.0"
+    },
+    {
+      "name": "📡虎牙",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": ""
+    },
+    {
+      "name": "📡斗鱼",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": ""
+    },
+    {
+      "name": "📡YY",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "ua": ""
+    },
+    {
+      "name": "📡BL",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "ua": ""
+    }
   ],
   "sites": [
     {
@@ -61,18 +61,11 @@
       "changeable": 0
     },
     {
-      "key": "Nostr",
-      "name": "🎿推荐┃[盘搜]",
+      "key": "wojh",
+      "name": "🎿玩偶┃[网盘]",
       "type": 3,
       "api": "csp_Nostr",
-      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
-    },
-    {
-      "key": "Nostr2",
-      "name": "🏄Nostr┃[盘搜]",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://www.252035.xyz/xs/tvbox/test.html"
+      "homePage": "http://rihou.cc:88/html/wo.html"
     },
     {
       "key": "Eclipse",
@@ -381,7 +374,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://sd.sduc.site",
+        "sites": "http://shandian.blog",
         "filters": "http://rihou.cc:88/json/wogg2.json",
         "proxy": "noproxy"
       }

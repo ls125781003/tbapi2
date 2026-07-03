@@ -59,18 +59,11 @@
       "changeable": 0
     },
     {
-      "key": "Nostr",
-      "name": "🎿推荐┃[盘搜]",
+      "key": "wojh",
+      "name": "🎿玩偶┃[网盘]",
       "type": 3,
       "api": "csp_Nostr",
-      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
-    },
-    {
-      "key": "Nostr2",
-      "name": "🏄Nostr┃[盘搜]",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://www.252035.xyz/xs/tvbox/test.html"
+      "homePage": "./html/wo.html"
     },
     {
       "key": "Eclipse",
@@ -379,7 +372,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://sd.sduc.site",
+        "sites": "http://shandian.blog",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
