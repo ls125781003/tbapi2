@@ -233,22 +233,6 @@
       }
     },
     {
-      "name": "☁️虎斑|4K",
-      "key": "hbWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "sites": [
-          "http://38.76.197.172:16969",
-          "http://103.217.192.130:16969"
-        ],
-        "filters": "https://nos.netease.com/youdata-netease/public-utilUpload-vcNMZx1iu3Tkzr4fckQvoW.gz"
-      }
-    },
-    {
       "name": "☁️至臻|4K",
       "key": "zzWobg",
       "type": 3,

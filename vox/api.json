@@ -600,14 +600,6 @@
       "jar": "./jars/夸克短剧.jar"
     },
     {
-      "key": "100听书",
-      "name": "📚100┃[听看]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/100听书.json",
-      "jar": "./jars/夸克短剧.jar"
-    },
-    {
       "key": "随身评书",
       "name": "📚随身┃[听看]",
       "type": 3,

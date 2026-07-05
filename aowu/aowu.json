@@ -1,5 +1,5 @@
 {
-    "spider": "https://zl.wpscdn.cn/2026/07/05/space_img/6a86cb18-07b2-4602-b218-e95a3e40847e.png;md5;c5e2ba1257d1bb431e03008c662950d1",
+    "spider": "https://zl.wpscdn.cn/2026/07/05/space_img/ddbfd62d-723d-4982-b10e-8b9c24db4ebb.png;md5;d02f7cfdf1e595ddd24a5d11b813ed83",
     "logo": "https://xiuxiu-pro-new.meitudata.com/ai_quality/d68445aeb1e77a379572b30cb9c405e1.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -230,22 +230,6 @@
                     "https://wexwp.cc"
                 ],
                 "filters": "https://nos.netease.com/youdata-netease/public-utilUpload-w2jwT7HaUo1qS2S3ftXQuU.gz"
-            }
-        },
-        {
-            "name": "☁️虎斑|4K",
-            "key": "hbWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "sites": [
-                    "http://38.76.197.172:16969",
-                    "http://103.217.192.130:16969"
-                ],
-                "filters": "https://nos.netease.com/youdata-netease/public-utilUpload-vcNMZx1iu3Tkzr4fckQvoW.gz"
             }
         },
         {

@@ -598,14 +598,6 @@
       "jar": "./jar/xbpq.jar"
     },
     {
-      "key": "100听书",
-      "name": "📚100┃[听看]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./xb/100听书.json",
-      "jar": "./jar/xbpq.jar"
-    },
-    {
       "key": "随身评书",
       "name": "📚随身┃[听看]",
       "type": 3,
