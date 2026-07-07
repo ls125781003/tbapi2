@@ -16,7 +16,7 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260706",
+      "name": "更新日期:20260707",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -944,11 +944,58 @@
     }
   ],
   "lives": [
-    {
-      "name": "直播源",
-      "type": 3,
-      "api": "csp_KafLiveAmns"
-    }
+        {
+            "name": "综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+        {
+            "key": "KafLive",
+            "name": "咖啡体育",
+            "type": 3,
+            "api": "csp_KafLiveAmns",
+            "playerType": 2
+        },
+        {
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "虎牙一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "斗鱼一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "B站直播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "YY轮播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        }
   ],
   "parses": [
     {

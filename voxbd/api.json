@@ -206,6 +206,18 @@
       }
     },
     {
+      "key": "csp_PanShare123",
+      "name": "🆘123┃[个人盘]",
+      "type": 3,
+      "api": "csp_PanShare123",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": {
+        "class": "./json/123share.txt"
+      }
+    },
+    {
       "key": "csp_Panta91",
       "name": "🐹盘Ta┃[网盘]",
       "type": 3,

@@ -2,6 +2,7 @@
     "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+    "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "sites": [
         {
             "key": "豆瓣",
@@ -330,6 +331,16 @@
             "timeout": 60
         },
         {
+            "key": "聚合",
+            "name": "聚合• 搜索",
+            "type": 3,
+            "api": "csp_JuheSo",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
+        },
+        {
             "key": "盘搜",
             "name": "盘搜 • 搜索",
             "type": 3,
@@ -340,20 +351,20 @@
             "timeout": 60
         },
         {
-            "key": "古哥",
-            "name": "古哥 • 搜索",
+            "key": "百酷",
+            "name": "百酷 • 搜索",
             "type": 3,
-            "api": "csp_GugeSo",
+            "api": "csp_Baiku",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
             "timeout": 60
         },
         {
-            "key": "百酷",
-            "name": "百酷 • 搜索",
+            "key": "酷乐",
+            "name": "酷乐 • 搜索",
             "type": 3,
-            "api": "csp_Baiku",
+            "api": "csp_KuLe",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -386,20 +397,10 @@
             "timeout": 60
         },
         {
-            "key": "混合",
-            "name": "混合 • 搜索",
-            "type": 3,
-            "api": "csp_HunHePan",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
             "key": "天翼",
             "name": "天翼 • 搜索",
             "type": 3,
-            "api": "csp_TianYiSou",
+            "api": "csp_TianYiSo",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
