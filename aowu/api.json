@@ -16,7 +16,7 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "name": "更新日期:20260707",
+      "name": "更新日期:20260708",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -333,7 +333,8 @@
       "api": "csp_ZhinanAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://4kzn.cc"
     },
     {
       "name": "☁️盘他|4K",
