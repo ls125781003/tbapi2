@@ -315,6 +315,15 @@
       "changeable": 0
     },
     {
+      "key": "csp_HDmoli",
+      "name": "🐶HDmoli┃[网盘]",
+      "type": 3,
+      "api": "csp_HDmoli",
+      "timeout": 60,
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "csp_Xxzn",
       "name": "🤑指南┃[网盘]",
       "type": 3,
@@ -325,8 +334,7 @@
       "timeout": 60,
       "ext": {
         "filters": "./json/xxzn.json",
-        "sites": "https://4kzn.com",
-        "proxy": "proxy"
+        "sites": "https://4kzn.cc"
       }
     },
     {
@@ -610,6 +618,14 @@
       "jar": "./jar/xbpq.jar"
     },
     {
+      "key": "csp_AiWanMusic",
+      "name": "🎵爱玩┃[音乐]",
+      "type": 3,
+      "api": "csp_AiWanMusic",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "随身评书",
       "name": "📚随身┃[听看]",
       "type": 3,
@@ -659,13 +675,6 @@
       "type": 3,
       "timeout": 60,
       "api": "./js/夸克影院.js"
-    },
-    {
-      "key": "cat_HDmoli",
-      "name": "⛵HDmoli┃[网盘]",
-      "type": 3,
-      "timeout": 60,
-      "api": "./js/HDmoli.js"
     },
     {
       "key": "灯泡网盘",

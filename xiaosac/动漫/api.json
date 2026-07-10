@@ -28,7 +28,7 @@
             "searchable": 1,
             "api": "csp_AppSy",
             "ext": {
-                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "url": "http://114.66.27.208:806",
                 "siteKey": "rectangleadsadxa",
                 "listKey": "aassddwwxxllsx1x",
                 "parsesKey": "aassddwwxxllsx1x"
