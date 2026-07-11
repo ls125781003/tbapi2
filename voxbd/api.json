@@ -560,14 +560,6 @@
       }
     },
     {
-      "key": "闪影BOX",
-      "name": "🤯臻享┃[APP]",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchTop": true,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    },
-    {
       "key": "夸克短剧",
       "name": "🌽夸克┃[短剧]",
       "type": 3,
