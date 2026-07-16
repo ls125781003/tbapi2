@@ -56,6 +56,12 @@
             "api": "csp_App3Q"
         },
         {
+            "key": "马猴影视",
+            "name": "马猴 • APP",
+            "type": 3,
+            "api": "csp_AppMH"
+        },
+        {
             "key": "韩圈",
             "name": "韩圈 • APP",
             "type": 3,
@@ -124,22 +130,6 @@
                 "package": "com.yingfu.mobile.android.pgsp",
                 "buildNumber": "2003",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-            }
-        },
-        {
-            "key": "顾我99",
-            "name": "顾我 • APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://117.50.200.113:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "040f9b1bc5e942569b5c3e63943306ab",
-                "versionName": "4.3.1",
-                "name": "顾我追剧",
-                "package": "com.guwozhuijux.app",
-                "buildNumber": "2001",
-                "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
             }
         },
         {
@@ -423,6 +413,26 @@
             "genre": "shortdrama"
         },
         {
+            "key": "山楂影视",
+            "name": "山楂 • 影视",
+            "type": 3,
+            "api": "./py/山楂影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瓜子影视",
+            "name": "瓜子 • 影视",
+            "type": 3,
+            "api": "./py/瓜子影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "独播影视",
             "name": "独播 • 影视",
             "type": 3,
@@ -451,12 +461,6 @@
             "api": "csp_Xlys",
             "type": 3,
             "ext": "https://www.xlysw.ggff.net"
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子 • 影视",
-            "type": 3,
-            "api": "csp_Gz360"
         },
         {
             "key": "骚火影视",
@@ -560,7 +564,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://9877.kstore.space/multi.json"
+            "ext": "https://oss-v1.wangmeipo.cn/236/multi.json"
         },
         {
             "key": "push_agent",

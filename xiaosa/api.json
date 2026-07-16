@@ -56,6 +56,12 @@
             "api": "csp_App3Q"
         },
         {
+            "key": "马猴影视",
+            "name": "马猴 • APP",
+            "type": 3,
+            "api": "csp_AppMH"
+        },
+        {
             "key": "韩圈",
             "name": "韩圈 • APP",
             "type": 3,
@@ -671,6 +677,26 @@
             "genre": "shortdrama"
         },
         {
+            "key": "山楂影视",
+            "name": "山楂 • 影视",
+            "type": 3,
+            "api": "./py/山楂影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瓜子影视",
+            "name": "瓜子 • 影视",
+            "type": 3,
+            "api": "./py/瓜子影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "独播影视",
             "name": "独播 • 影视",
             "type": 3,
@@ -699,12 +725,6 @@
             "api": "csp_Xlys",
             "type": 3,
             "ext": "https://www.xlysw.ggff.net"
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子 • 影视",
-            "type": 3,
-            "api": "csp_Gz360"
         },
         {
             "key": "骚火影视",
@@ -1395,7 +1415,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://9877.kstore.space/single.json"
+            "ext": "https://oss-v1.wangmeipo.cn/236/single.json"
         },
         {
             "key": "push_agent",
