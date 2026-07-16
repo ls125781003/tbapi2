@@ -16,7 +16,7 @@
     },
     {
       "key": "Doubana",
-      "name": "🐮【更新日期:20260714】🐮",
+      "name": "🐮【更新日期:20260716】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -365,6 +365,14 @@
       "name": "🤡喵呜┃动漫🤡",
       "type": 3,
       "api": "csp_AnimeMiaoWuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "AnimeHuaziGuard",
+      "name": "🤡花海┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeHuaziGuard",
       "searchable": 1,
       "changeable": 0
     },

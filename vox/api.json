@@ -220,24 +220,6 @@
       }
     },
     {
-      "key": "csp_Panta91",
-      "name": "🐹盘Ta┃[网盘]",
-      "type": 3,
-      "api": "csp_Panta91",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "timeout": 60,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sites": "https://www.91panta.cn",
-        "proxy": "noproxy",
-        "classes": "http://rihou.cc:88/json/panta.json"
-      }
-    },
-    {
       "key": "csp_GuanYing",
       "name": "😂观影┃[网盘]",
       "type": 3,
@@ -699,14 +681,6 @@
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/蜻蜓FM.js"
-    },
-    {
-      "key": "爱看资网",
-      "name": "🚘爱看┃[网盘]",
-      "type": 3,
-      "timeout": 60,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/爱看资网.js"
     },
     {
       "key": "cat_夸克影院",
