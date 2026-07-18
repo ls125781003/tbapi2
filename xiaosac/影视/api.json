@@ -413,24 +413,22 @@
             "genre": "shortdrama"
         },
         {
-            "key": "山楂影视",
-            "name": "山楂 • 影视",
-            "type": 3,
-            "api": "./py/山楂影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "瓜子影视",
             "name": "瓜子 • 影视",
             "type": 3,
-            "api": "./py/瓜子影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "csp_Gz360"
+        },
+        {
+            "key": "山楂影视",
+            "name": "山楂 • 影视",
+            "type": 3,
+            "api": "csp_PianKu8"
+        },
+        {
+            "key": "飞娱影视",
+            "name": "飞娱 • 影视",
+            "type": 3,
+            "api": "csp_Feiyu"
         },
         {
             "key": "独播影视",
