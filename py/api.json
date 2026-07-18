@@ -43,6 +43,30 @@
             "ext": {
                 "CosUrl": "http://2025-1329689796.cos.ap-guangzhou.myqcloud.com/jumi1.0/app1.json"
             }
+        },
+        {
+            "key": "次元城动漫[APP]",
+            "name": "次元城动漫[APP]",
+            "type": 3,
+            "api": "./app/cycapp.py",
+            "ext": {
+                "doh": "app.cycapp.org",
+                "pkg": "com.ynwtandroid.fork.xl",
+                "md5": "6D598ABE021BF1E9BF0CEB8ACF19EBB4",
+                "ver": "5.4.4"
+            }
+        },
+        {
+            "key": "稀饭动漫[APP]",
+            "name": "稀饭动漫[APP]",
+            "type": 3,
+            "api": "./app/cycapp.py",
+            "ext": {
+                "doh": "appa.xifandm.net",
+                "pkg": "com.kingsfw.yunxiaoji.xl",
+                "md5": "C7FE1C4EB3FB23DE54EF842E6968DA59",
+                "ver": "5.4.4"
+            }
         },				
 		{
 			"key": "美剧侠[APP]",
