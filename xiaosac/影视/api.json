@@ -272,6 +272,32 @@
             }
         },
         {
+            "key": "麻花",
+            "name": "麻花 • APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "http://150.158.123.62:130",
+                "dataKey": "q7gj4f9br3fls6nh",
+                "dataIv": "q7gj4f9br3fls6nh"
+            }
+        },
+        {
+            "key": "不戳",
+            "name": "不戳 • APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://appcmszbc.zbc4k.app",
+                "dataKey": "pYrEkiWRYhBLTUTC",
+                "dataIv": "pYrEkiWRYhBLTUTC"
+            }
+        },
+        {
             "key": "魔方",
             "name": "魔方 • APP",
             "type": 3,
