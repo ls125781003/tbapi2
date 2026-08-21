@@ -46,6 +46,12 @@
         "type": "list"
       }
     },
+       {
+      "key": "落雨",
+      "name": "落雨|弹幕",
+      "type": 3,
+      "api": "csp_HBXueluo"
+    },
     {
       "key": "独播",
       "name": "独播|弹幕",
