@@ -12,8 +12,17 @@
     {
       "name": "📡咪咕直播",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "ua": "okHttp/Mod-1.1.0"
+      "url": "http://124.77.202.8:49155"
+    },
+    {
+      "name": "📡咪咕直播2",
+      "type": 0,
+      "url": "http://27.18.216.122:55555"
+    },
+    {
+      "name": "📡咪咕直播3",
+      "type": 0,
+      "url": "http://120.24.194.118:10002"
     },
     {
       "name": "📡虎牙",
@@ -407,7 +416,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://wexwp.cc",
+        "sites": "https://www.wexwp.cc",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
