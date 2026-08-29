@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png;md5;5b8862d1137cc2473444afba6d5884f3",
+  "spider": "https://nos.netease.com/ysf/e22592740cc635de092312ada06ac409.png;md5;4f76bbbdeef931f0939998b7c305cd8c",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -16,7 +16,7 @@
       "ext": "Douban"
     },
     {
-      "name": "更新日期:【20260825】",
+      "name": "更新日期:【20260830】",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -339,10 +339,10 @@
       "changeable": 0
     },
     {
-      "name": "🐱花海┃动漫",
-      "key": "DMhhz",
+      "name": "🐱牛来┃动漫",
+      "key": "DMox",
       "type": 3,
-      "api": "csp_DMhhzAmns",
+      "api": "csp_DMoxAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0

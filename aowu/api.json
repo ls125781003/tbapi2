@@ -16,7 +16,7 @@
       "ext": "Douban"
     },
     {
-      "name": "更新日期:【20260825】",
+      "name": "更新日期:【20260830】",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -339,10 +339,10 @@
       "changeable": 0
     },
     {
-      "name": "🐱花海┃动漫",
-      "key": "DMhhz",
+      "name": "🐱牛来┃动漫",
+      "key": "DMox",
       "type": 3,
-      "api": "csp_DMhhzAmns",
+      "api": "csp_DMoxAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
