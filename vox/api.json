@@ -263,21 +263,6 @@
       }
     },
     {
-      "key": "csp_Gyzzs",
-      "name": "🦆鸭社┃[网盘]",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "api": "csp_Qsxy",
-      "ext": {
-        "cookie": "",
-        "comment": ""
-      }
-    },
-    {
       "key": "123社区",
       "name": "🥉社区┃[网盘]",
       "type": 3,
@@ -350,6 +335,15 @@
         "filters": "",
         "sites": ""
       }
+    },
+    {
+      "key": "csp_JuTouShe",
+      "name": "😳剧透┃[网盘]",
+      "type": 3,
+      "timeout": 60,
+      "api": "csp_JuTouShe",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "csp_Wogg",

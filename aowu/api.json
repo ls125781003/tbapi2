@@ -254,6 +254,26 @@
       "ext": "ddWobg"
     },
     {
+      "name": "☁️蜡笔┃4K",
+      "key": "lbWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "lbWobg"
+    },
+    {
+      "name": "☁️虎斑┃4K",
+      "key": "hbWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "hbWobg"
+    },
+    {
       "name": "☁️观影┃4K",
       "key": "Gying",
       "type": 3,
@@ -813,6 +833,26 @@
       "key": "KuGou",
       "type": 3,
       "api": "csp_KuGouAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+    {
+      "name": "🎸酷听┃音乐",
+      "key": "Kuwo",
+      "type": 3,
+      "api": "csp_KuwoAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+    {
+      "name": "🎸蜻蜓┃电台",
+      "key": "QTfm",
+      "type": 3,
+      "api": "csp_QTfmAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,

@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/e22592740cc635de092312ada06ac409.png;md5;4f76bbbdeef931f0939998b7c305cd8c",
+  "spider": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -252,6 +252,26 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "ddWobg"
+    },
+    {
+      "name": "☁️蜡笔┃4K",
+      "key": "lbWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "lbWobg"
+    },
+    {
+      "name": "☁️虎斑┃4K",
+      "key": "hbWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "hbWobg"
     },
     {
       "name": "☁️观影┃4K",
@@ -813,6 +833,26 @@
       "key": "KuGou",
       "type": 3,
       "api": "csp_KuGouAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+    {
+      "name": "🎸酷听┃音乐",
+      "key": "Kuwo",
+      "type": 3,
+      "api": "csp_KuwoAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+    {
+      "name": "🎸蜻蜓┃电台",
+      "key": "QTfm",
+      "type": 3,
+      "api": "csp_QTfmAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
