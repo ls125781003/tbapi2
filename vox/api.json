@@ -5,11 +5,6 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
-      "name": "📡体育直播",
-      "type": 0,
-      "url": "http://82.156.243.185:33389/fwc.m3u"
-    },
-    {
       "name": "📡咪咕直播",
       "type": 0,
       "url": "http://124.77.202.8:49155"
@@ -577,24 +572,6 @@
       }
     },
     {
-      "key": "夸克短剧",
-      "name": "🌽夸克┃[短剧]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "timeout": 60,
-      "ext": "./xb/夸克短剧.json",
-      "jar": "./jar/xbpq.jar"
-    },
-    {
-      "key": "短剧夸克",
-      "name": "🍆夸短┃[短剧]",
-      "type": 3,
-      "timeout": 60,
-      "api": "csp_XBPQ",
-      "ext": "./xb/短剧夸克.json",
-      "jar": "./jar/xbpq.jar"
-    },
-    {
       "key": "旺旺影视",
       "name": "🐶旺旺┃[XBPQ]",
       "type": 3,
@@ -669,13 +646,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/蜻蜓FM.js"
-    },
-    {
-      "key": "cat_夸克影院",
-      "name": "👶夸克┃[网盘]",
-      "type": 3,
-      "timeout": 60,
-      "api": "./js/夸克影院.js"
     },
     {
       "key": "人人电影",
@@ -966,7 +936,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "http://jiduo.rihou.cc:6250/jiduo.php/market.json"
+      "ext": "http://rihou.cc:88/json/market.json"
     },
     {
       "key": "csp_PanSou",
@@ -985,6 +955,23 @@
         "exclude": [
           "预告",
           "花絮"
+        ]
+      }
+    },
+    {
+      "key": "csp_MiSou",
+      "name": "🔍米搜┃搜索",
+      "type": 3,
+      "api": "csp_MiSou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "hide": 1,
+      "timeout": 60,
+      "ext": {
+        "site": [
+          "http://gesoso.fun",
+          "http://www.misoso.shop"
         ]
       }
     },
@@ -1036,17 +1023,6 @@
       "type": 4,
       "hide": 1,
       "api": "https://so.yinpai.xyz/api.php?type=xunlei"
-    },
-    {
-      "key": "py_盘友圈",
-      "name": "🤒盘友┃搜索",
-      "api": "./py/盘友圈.py",
-      "filterable": 1,
-      "timeout": 60,
-      "quickSearch": 1,
-      "searchable": 1,
-      "hide": 1,
-      "type": 3
     },
     {
       "key": "短裤",
