@@ -69,6 +69,14 @@
       "changeable": 0
     },
     {
+      "key": "webhome",
+      "name": "Ⓜ️网页┃首页",
+      "type": 3,
+      "api": "csp_WebHome",
+      "ext": "./vox_webhome/ext.json",
+      "changeable": 0
+    },
+    {
       "key": "wojh",
       "name": "🎿玩偶┃[网盘]",
       "type": 3,

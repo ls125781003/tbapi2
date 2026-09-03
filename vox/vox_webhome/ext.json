@@ -1,0 +1,35 @@
+{
+    "selfKey": "webhome",
+    "sites": [
+        {
+            "key": "sotvla",
+            "name": "SOTVLA",
+            "type": 3,
+            "api": "csp_Builtin",
+            "homePage": "https://www.sotvla.cc/",
+            "pic": "https://www.sotvla.cc/favicon.ico",
+            "chromeMode": "edge",
+            "extensions": [
+                {
+                    "id": "sotvla-native-enhance",
+                    "name": "SOTVLA App 播放增强",
+                    "version": "1.2.2",
+                    "runAt": "document-start",
+                    "js": [
+                        "./sotvla/sotvla.js"
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "QQYY",
+            "name": "QQ音乐",
+            "type": 3,
+            "api": "csp_Qqyy",
+            "homePage": "./html/QQ音乐.html",
+            "pic": "https://5b0988e595225.cdn.sohucs.com/images/20190609/0f56f42a3e744d35a13286a311a9f8fa.jpeg",
+            "proxy": "noproxy",
+            "chromeMode": "edge"
+        }
+    ]
+}
