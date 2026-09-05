@@ -246,7 +246,7 @@
       "ext": {
         "cookie": "",
         "filters": "./json/guanying.json",
-        "sites": "https://www.xn--wcv59z.com/",
+        "sites": "https://www.xn--wcv59z.com,https://www.xn--74qz10cqsltibh40akss.com,https://www.xn--dpqv20e8ug6r8a.com,https://www.xn--10vr61a3xc5x3b.com,https://www.xn--kivn76b41nnhi.com",
         "proxy": "noproxy"
       }
     },
@@ -278,6 +278,34 @@
       "ext": {
         "cookie": "",
         "filters": "./json/pan123fx.json",
+        "comment": ""
+      }
+    },
+    {
+      "key": "csp_Pzzg123",
+      "name": "🛒臻藏┃[网盘]",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_Qsxy123",
+      "timeout": 60,
+      "ext": {
+        "cookie": "",
+        "comment": ""
+      }
+    },
+    {
+      "key": "csp_Gyzz",
+      "name": "🦆鸭臻┃[网盘]",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_Qsxy",
+      "timeout": 60,
+      "ext": {
+        "cookie": "",
         "comment": ""
       }
     },
