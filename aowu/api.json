@@ -16,7 +16,7 @@
       "ext": "Douban"
     },
     {
-      "name": "更新日期:【20260830】",
+      "name": "更新日期:【20260906】",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -425,17 +425,6 @@
       "ext": "Libvio"
     },
     {
-      "name": "🎬嗷嗚┃漫剧",
-      "key": "MjHggg",
-      "type": 3,
-      "api": "csp_HgggAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "MjHggg",
-      "genre": "shortdrama"
-    },
-    {
       "name": "🎬嗷嗚┃短剧",
       "key": "DjHggg",
       "type": 3,
@@ -443,7 +432,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "DjHggg",
       "genre": "shortdrama"
     },
     {
