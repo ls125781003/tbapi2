@@ -16,7 +16,7 @@
       "ext": "Douban"
     },
     {
-      "name": "更新日期:【20260909】",
+      "name": "更新日期:【20260910】",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -284,15 +284,6 @@
       "ext": "Gying"
     },
     {
-      "name": "☁️盘链┃4K",
-      "key": "Panl",
-      "type": 3,
-      "api": "csp_PanlAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "name": "☁️Sed┃4K",
       "key": "SeedHub",
       "type": 3,
@@ -502,14 +493,7 @@
       "api": "csp_Woshinidie",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "version": "3.0.2.3",
-        "pkg": "com.mxj.wylcjbxyx",
-        "md5": "090DA8F91D3F60CC6CB250D86F06FE12",
-        "sha1": "3DADB42485B7F864E766479ADA6B1176D81D8D73",
-        "site": "https://oss-1372779881.cos.ap-guangzhou.myqcloud.com/ross.txt"
-      }
+      "changeable": 0
     },
     {
       "name": "🧩金牌┃快速",
