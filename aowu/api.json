@@ -16,7 +16,7 @@
       "ext": "Douban"
     },
     {
-      "name": "更新日期:【20260910】",
+      "name": "更新日期:【侏罗纪】",
       "key": "Y360",
       "type": 3,
       "api": "csp_Y360Amns",
@@ -214,26 +214,6 @@
       "ext": "AppV6Tg"
     },
     {
-      "name": "☁️二小┃4K",
-      "key": "exWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "exWobg"
-    },
-    {
-      "name": "☁️至臻┃4K",
-      "key": "zzWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "zzWobg"
-    },
-    {
       "name": "☁️闪电┃4K",
       "key": "yxWobg",
       "type": 3,
@@ -254,16 +234,6 @@
       "ext": "ddWobg"
     },
     {
-      "name": "☁️蜡笔┃4K",
-      "key": "lbWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "lbWobg"
-    },
-    {
       "name": "☁️虎斑┃4K",
       "key": "hbWobg",
       "type": 3,
@@ -272,6 +242,16 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "hbWobg"
+    },
+    {
+      "name": "☁️Sed┃4K",
+      "key": "SeedHub",
+      "type": 3,
+      "api": "csp_SeedHubAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "SeedHub"
     },
     {
       "name": "☁️观影┃4K",
@@ -284,14 +264,14 @@
       "ext": "Gying"
     },
     {
-      "name": "☁️Sed┃4K",
-      "key": "SeedHub",
+      "name": "☁️盘库┃4K",
+      "key": "Panku",
       "type": 3,
-      "api": "csp_SeedHubAmns",
+      "api": "csp_PankuAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "SeedHub"
+      "ext": "Panku"
     },
     {
       "name": "☁️七味┃4K",
@@ -341,10 +321,10 @@
       "changeable": 0
     },
     {
-      "name": "🐱囧途┃动漫",
-      "key": "DMcyc",
+      "name": "🐱番薯┃动漫",
+      "key": "DMfans",
       "type": 3,
-      "api": "csp_DMcycAmns",
+      "api": "csp_DMfansAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -354,15 +334,6 @@
       "key": "DMox",
       "type": 3,
       "api": "csp_DMoxAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🐱番薯┃动漫",
-      "key": "DMfans",
-      "type": 3,
-      "api": "csp_DMfansAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
