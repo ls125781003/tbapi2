@@ -407,21 +407,6 @@
       }
     },
     {
-      "key": "蜡笔网盘",
-      "name": "🤩蜡笔┃[网盘]",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "http://tvpanpan.site",
-        "filters": "./json/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
       "key": "闪电网盘",
       "name": "🤑闪电┃[网盘]",
       "type": 3,
@@ -462,21 +447,6 @@
       "timeout": 60,
       "ext": {
         "sites": "https://123.666291.xyz",
-        "filters": "./json/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "至臻网盘",
-      "name": "🤫至臻┃[网盘]",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "https://www.mihdr.top",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
