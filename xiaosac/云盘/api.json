@@ -382,6 +382,16 @@
             "timeout": 60
         },
         {
+            "key": "爱盼",
+            "name": "爱盼 • 4K",
+            "type": 3,
+            "api": "csp_AiPan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
             "key": "移动",
             "name": "移动 • 4K",
             "type": 3,

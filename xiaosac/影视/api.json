@@ -114,8 +114,7 @@
             "key": "韩圈",
             "name": "韩圈 • APP",
             "type": 3,
-            "api": "csp_Hxq",
-            "ext": "http://www.小不点.com/api/2026/fishhxq.php"
+            "api": "csp_Hxq"
         },
         {
             "key": "剧圈99",
@@ -402,36 +401,6 @@
                 "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
             },
             "genre": "shortdrama"
-        },
-        {
-            "key": "世界影视",
-            "name": "世界 • 影视",
-            "type": 3,
-            "api": "csp_HkybSpider",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "壹壹影视",
-            "name": "壹壹 • 影视",
-            "type": 3,
-            "api": "csp_YiYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子 • 影视",
-            "type": 3,
-            "api": "csp_Gz360"
-        },
-        {
-            "key": "山楂影视",
-            "name": "山楂 • 影视",
-            "type": 3,
-            "api": "csp_PianKu8"
         },
         {
             "key": "飞娱影视",
