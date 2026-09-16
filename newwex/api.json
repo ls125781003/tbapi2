@@ -50,6 +50,15 @@
       }
     },
     {
+      "key": "花卷",
+      "name": "💓花卷┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiNewHuaJuanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "玩偶",
       "name": "💓‍玩偶┃4K💓‍",
       "type": 3,
