@@ -77,20 +77,6 @@
       "changeable": 0
     },
     {
-      "key": "wojh",
-      "name": "🎿玩偶┃[网盘]",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "./html/wo.html"
-    },
-    {
-      "key": "Eclipse",
-      "name": "🚢Eclipse┃[盘搜]",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "./html/Eclipse.html"
-    },
-    {
       "key": "csp_MakkaPakka",
       "name": "😊风向┃[导航]",
       "type": 3,
@@ -247,21 +233,6 @@
         "cookie": "",
         "filters": "./json/guanying.json",
         "sites": "https://www.xn--wcv59z.com,https://www.xn--74qz10cqsltibh40akss.com,https://www.xn--dpqv20e8ug6r8a.com,https://www.xn--10vr61a3xc5x3b.com,https://www.xn--kivn76b41nnhi.com",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "csp_PingLian",
-      "name": "😃盘链┃[网盘]",
-      "type": 3,
-      "api": "csp_PingLian",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "cookie": "",
-        "filters": "./json/pinglian.json",
-        "sites": "https://pinglian.lol",
         "proxy": "noproxy"
       }
     },
@@ -676,12 +647,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/泥泥视频.js"
-    },
-    {
-      "key": "星辰影院",
-      "name": "🪐星辰┃[秒播]",
-      "type": 3,
-      "api": "./js/星辰影院.js"
     },
     {
       "key": "官采",
