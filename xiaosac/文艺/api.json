@@ -91,18 +91,6 @@
             }
         },
         {
-            "key": "轮回DJ",
-            "name": "轮回 • DJ",
-            "type": 3,
-            "api": "csp_Djlh",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "蜻蜓FM",
             "name": "蜻蜓 • FM",
             "type": 3,
