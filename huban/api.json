@@ -58,11 +58,17 @@
       "type": 3,
       "api": "csp_Duboku"
     },
-     {
+         {
       "key": "HBGuaZi",
       "name": "瓜子|弹幕",
       "type": 3,
       "api": "csp_HBGuaZi"
+    },
+     {
+      "key": "HBDYYZ",
+      "name": "驿站|弹幕",
+      "type": 3,
+      "api": "csp_HBDYYZ"
     },
          {
       "key": "HBPianKu8",
