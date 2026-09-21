@@ -214,6 +214,16 @@
       "ext": "AppV6Tg"
     },
     {
+      "name": "☁️花卷┃4K",
+      "key": "hjWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "hjWobg"
+    },
+    {
       "name": "☁️闪电┃4K",
       "key": "yxWobg",
       "type": 3,
