@@ -52,6 +52,18 @@
       "type": 3,
       "api": "csp_HBXueluo"
     },
+        {
+      "key": "HBMaiTian",
+      "api": "csp_HBMaiTian",
+      "name": "美美|弹幕",
+      "type": 3
+    },
+     {
+      "key": "HBDYYZ",
+      "api": "csp_HBDYYZ",
+      "name": "驿站|弹幕",
+      "type": 3
+    },
     {
       "key": "独播",
       "name": "独播|弹幕",
