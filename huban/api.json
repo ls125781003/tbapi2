@@ -46,6 +46,18 @@
         "type": "list"
       }
     },
+        {
+      "key": "HBFiveDm",
+      "api": "csp_HBFiveDm",
+      "name": "五漫|弹幕",
+      "type": 3
+    },
+        {
+      "key": "HBYiQi",
+      "api": "csp_HBYiQi",
+      "name": "一起|弹幕",
+      "type": 3
+    },
        {
       "key": "落雨",
       "name": "落雨|弹幕",
