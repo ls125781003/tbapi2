@@ -7,17 +7,17 @@
     {
       "name": "📡咪咕直播",
       "type": 0,
-      "url": "http://124.77.202.8:49155"
+      "url": "http://139.224.44.53:1234"
     },
     {
       "name": "📡咪咕直播2",
       "type": 0,
-      "url": "http://27.18.216.122:55555"
+      "url": "http://psp1000.asuscomm.com:1234"
     },
     {
       "name": "📡咪咕直播3",
       "type": 0,
-      "url": "http://120.24.194.118:10002"
+      "url": "http://117.72.81.53:3000"
     },
     {
       "name": "📡虎牙",
@@ -344,7 +344,7 @@
     },
     {
       "key": "csp_Wogg",
-      "name": "😁玩偶┃[网盘]",
+      "name": "😁玩偶┃哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "timeout": 60,
@@ -352,7 +352,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "sites": "https://woggpan.xxooo.cf",
+        "sites": "https://woggpan.888484.xyz,https://wogg.xxooo.cf,https://www.wogg.net,https://woggpan.xxooo.cf",
         "filters": "./json/wogg.json",
         "proxy": "noproxy"
       }
@@ -389,7 +389,7 @@
     },
     {
       "key": "多多网盘",
-      "name": "😘多多┃[网盘]",
+      "name": "😘多多┃网盘",
       "type": 3,
       "api": "csp_Wobg",
       "searchable": 1,
@@ -397,7 +397,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://tv.yydsys.top/",
+        "sites": "https://tv.214521.xyz,https://yydsys.de5.net,https://tv.yydsys.top",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
