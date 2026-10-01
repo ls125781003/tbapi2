@@ -47,9 +47,22 @@
       }
     },
         {
+      "key": "pansou",
+      "api": "http://tvbox.zling.vip/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
+      "name": "盘搜|集合",
+      "type": 4
+      //type=quark|uc|baidu|tianyi|xunlei|123|115|aliyun|mobile
+    },
+        {
       "key": "HBFiveDm",
       "api": "csp_HBFiveDm",
       "name": "五漫|弹幕",
+      "type": 3
+    },
+       {
+      "key": "HBBaoHuo",
+      "api": "csp_HBBaoHuo",
+      "name": "火火|弹幕",
       "type": 3
     },
         {
@@ -118,12 +131,14 @@
       "type": 4,
       "api": "http://38.76.197.172:15151/duanju.php?type=dquark"
     },
+
     {
       "key": "B站直播",
       "name": "B站|直播",
       "type": 3,
       "api": "csp_BilibiliLive"
     },
+     
    /* {
       "key": "聚合",
       "name": "聚合|在线",
@@ -255,7 +270,7 @@
         "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
         "leijck": ""}
     },
-    {
+ /*   {
       "key": "xunlei",
       "name": "迅雷|推送",
       "type": 4,
@@ -290,7 +305,7 @@
       "name": "天翼|推送",
       "type": 4,
       "api": "http://38.76.197.172:15151/api.php?type=tianyi"
-    },
+    },*/
    /* {
       "key": "茶壶",
       "name": "茶壶|弹幕",
