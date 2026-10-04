@@ -293,7 +293,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "host": "https://sidhub.cc"
+        "host": "https://seedog.cc"
       }
     },
     {
@@ -498,18 +498,6 @@
       "ext": {
         "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
         "datakey": "GETMIFUNGEIMIFUN"
-      }
-    },
-    {
-      "key": "八天App",
-      "name": "🐷八天┃[APP]",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://dy.8ttv.cn/",
-        "datakey": "1111111111111111"
       }
     },
     {
@@ -862,19 +850,7 @@
       "playerType": 2,
       "ext": "./json/webdav.json"
     },
-    {
-      "key": "Samba",
-      "name": "💎Samba┃[本地]",
-      "type": 3,
-      "api": "csp_Samba",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./json/samba.txt"
-    },
-    {
+    null, {
       "key": "商店",
       "name": "🤡商店┃[更新]",
       "type": 3,
