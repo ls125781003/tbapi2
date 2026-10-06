@@ -850,7 +850,7 @@
       "playerType": 2,
       "ext": "./json/webdav.json"
     },
-    null, {
+    {
       "key": "商店",
       "name": "🤡商店┃[更新]",
       "type": 3,
