@@ -301,7 +301,7 @@
             }
         },
         {
-            "key": "茉莉",
+            "key": "茉莉Get",
             "name": "茉莉 • APP",
             "type": 3,
             "api": "csp_AppGet",
