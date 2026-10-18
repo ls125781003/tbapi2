@@ -445,6 +445,15 @@
       "ext": "https://zxfmj.com/"
     },
     {
+      "key": "qingmai",
+      "name": "青麦|弹幕",
+      "type": 3,
+      "api": "csp_HBQingMaiCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "磁力",
       "name": "6V|弹幕",
       "type": 3,
