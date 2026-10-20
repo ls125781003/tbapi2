@@ -1,6 +1,6 @@
 var rule = {
     title: "路漫漫",
-    host: "https://www.lmm85.com",
+    host: "http://lmmzx.com",
     url: "/vod/show/id/fyclassfyfilter.html",
     searchUrl: '/vod/search/page/fypage/wd/**.html',
     searchable: 2,
