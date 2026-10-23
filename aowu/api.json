@@ -37,6 +37,16 @@
       "ext": "Hgdh"
     },
     {
+      "name": "🔥经典┃推荐",
+      "key": "Xxxg",
+      "type": 3,
+      "api": "csp_XxxgAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "Xxxg"
+    },
+    {
       "name": "⚙️配置┃中心",
       "key": "MyConfig",
       "type": 3,
