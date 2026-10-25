@@ -319,14 +319,13 @@
       "changeable": 1
     },
     {
-      "name": "🐱冬瓜┃动漫",
-      "key": "DMxigua",
+      "name": "🐱嗷嗚┃动漫",
+      "key": "DMcyc",
       "type": 3,
-      "api": "csp_DMxiguaAmns",
+      "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "DMxigua"
+      "changeable": 1
     },
     {
       "name": "🐱牛来┃动漫",
@@ -345,6 +344,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "name": "🐱冬瓜┃动漫",
+      "key": "DMxigua",
+      "type": 3,
+      "api": "csp_DMxiguaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "DMxigua"
     },
     {
       "name": "🐱魔都┃动漫",
