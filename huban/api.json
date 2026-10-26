@@ -48,7 +48,7 @@
     },
     {
       "key": "pansou",
-      "api": "http://tvbox.zling.vip/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
+      "api": "http://so.yinpai.xyz/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
       "name": "盘搜|集合",
       "type": 4
     },
@@ -373,6 +373,24 @@
       "ext": "https://jcy.jciyuan.com"
     },
     {
+      "key": "aki",
+      "name": "Aki动漫|弹幕",
+      "type": 3,
+      "api": "csp_HBAkiAnimeCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "fanqie",
+      "name": "番茄|弹幕",
+      "type": 3,
+      "api": "csp_HBFanQieCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "juxiafan",
       "name": "剧下|弹幕",
       "type": 3,
@@ -449,6 +467,15 @@
       "name": "青麦|弹幕",
       "type": 3,
       "api": "csp_HBQingMaiCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "xingying",
+      "name": "星影|弹幕",
+      "type": 3,
+      "api": "csp_HBXingYingCAT",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1
@@ -638,11 +665,6 @@
       "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
     },
     {
-      "name": "晴天4K Q1026038872",
-      "type": 1,
-      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-    },
-    {
       "name": "虎斑AB",
       "type": 1,
       "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
@@ -654,8 +676,8 @@
     },
     {
       "name": "虎斑XM",
-      "type": 1,
-      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
+      "type": 0,
+      "url": "https://wpsseo.cn/player/?id=",
       "ext": {
         "header": {
           "Accept": "*/*",

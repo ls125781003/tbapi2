@@ -12,12 +12,17 @@
     {
       "name": "📡咪咕直播2",
       "type": 0,
-      "url": "http://psp1000.asuscomm.com:1234"
+      "url": "http://www.ikerobot.com:1234"
     },
     {
       "name": "📡咪咕直播3",
       "type": 0,
-      "url": "http://117.72.81.53:3000"
+      "url": "http://www.kkkzt.top:5678"
+    },
+    {
+      "name": "📡央央视频",
+      "type": 0,
+      "url": "http://220.179.180.205:4000"
     },
     {
       "name": "📡虎牙",
@@ -352,23 +357,8 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "sites": "https://woggpan.888484.xyz,https://wogg.xxooo.cf,https://www.wogg.net,https://woggpan.xxooo.cf",
+        "sites": "https://www.wogg.net,https://woggpan.888484.xyz",
         "filters": "./json/wogg.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "闪电网盘",
-      "name": "🤑闪电┃[网盘]",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "http://shandian.blog",
-        "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
     },
@@ -382,14 +372,14 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://123.666291.xyz",
+        "sites": "https://666.666291.xyz,https://www.muoua.top,https://333.333291.xyz,https://123.666291.xyz",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
     },
     {
-      "key": "多多网盘",
-      "name": "😘多多┃网盘",
+      "key": "蜡笔网盘",
+      "name": "😲蜡笔┃[网盘]",
       "type": 3,
       "api": "csp_Wobg",
       "searchable": 1,
@@ -397,7 +387,52 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://tv.214521.xyz,https://yydsys.de5.net,https://tv.yydsys.top",
+        "sites": "http://tvpanpan.site,https://www.mmpanpan.site",
+        "filters": "./json/wogg2.json",
+        "proxy": "noproxy"
+      }
+    },
+    {
+      "key": "闪电网盘",
+      "name": "🤑闪电┃[网盘]",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": {
+        "sites": "http://sd.sduc.site,http://shandian.blog",
+        "filters": "./json/wogg2.json",
+        "proxy": "noproxy"
+      }
+    },
+    {
+      "key": "多多网盘",
+      "name": "😘多多┃[网盘]",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": {
+        "sites": "https://tv.214521.xyz,https://tv.yydsys.cc,https://pan.yydsys.de,https://yydsys.de5.net",
+        "filters": "./json/wogg2.json",
+        "proxy": "noproxy"
+      }
+    },
+    {
+      "key": "欧歌网盘",
+      "name": "🤪欧歌┃[网盘]",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": {
+        "sites": "https://woog.430520.xyz,https://woog.nxog.eu.org",
         "filters": "./json/wogg2.json",
         "proxy": "noproxy"
       }
