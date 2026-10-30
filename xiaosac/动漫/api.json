@@ -35,33 +35,19 @@
             "key": "巴士动漫",
             "name": "巴士 • 动漫",
             "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
-                "分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
-                "分类": "国漫$1#日漫$2#欧美动漫$3#电影$4",
-                "数组": "class=\"item\">&&</li>",
-                "简介": "剧情：&&</p>",
-                "标题": "title=\"&&在线观看\"",
-                "副标题": "desc\">&&</span>",
-                "图片": "data-bg=\"&&\"",
-                "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
-                "倒序": "1"
-            }
+            "api": "csp_AnimeBashi"
         },
         {
-            "key": "路漫漫",
-            "name": "路漫漫 • 动漫",
+            "key": "吉里动漫",
+            "name": "吉里 • 动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/路漫漫.js"
+            "api": "csp_AnimeGiri"
         },
         {
-            "key": "去看吧",
-            "name": "去看吧 • 动漫",
+            "key": "花子动漫",
+            "name": "花子 • 动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/去看吧.js"
+            "api": "csp_AnimeHuazi"
         },
         {
             "key": "版本信息",
