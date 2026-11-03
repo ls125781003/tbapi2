@@ -53,6 +53,26 @@
       "type": 4
     },
     {
+      "key": "juzi",
+      "name": "橘子|弹幕",
+      "type": 3,
+      "api": "csp_HBJuZhiCAT",
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "hanjudada",
+      "name": "韩剧|大大",
+      "type": 3,
+      "api": "csp_HBHanJuDaCAT",
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
       "key": "HB36DJ",
       "name": "摇滚|DJ",
       "type": 3,
@@ -81,6 +101,33 @@
       "api": "csp_HBBaoHuoCAT",
       "name": "火火|弹幕",
       "type": 3
+    },
+    {
+      "key": "shanzha",
+      "api": "csp_HBShanZhaCAT",
+      "name": "山楂|弹幕",
+      "type": 3,
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1
+    },
+    {
+      "key": "duse",
+      "api": "csp_HBDuSheCAT",
+      "name": "毒舌|弹幕",
+      "type": 3,
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "shixiong",
+      "api": "csp_HBShiXiongCAT",
+      "name": "师兄|弹幕",
+      "type": 3,
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1
     },
     {
       "key": "HBYiQi",
@@ -481,6 +528,15 @@
       "quickSearch": 1
     },
     {
+      "key": "kaixin",
+      "name": "开心|在线",
+      "type": 3,
+      "api": "csp_HBZhenLangCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "磁力",
       "name": "6V|弹幕",
       "type": 3,
@@ -641,6 +697,16 @@
       "name": "测试|专用",
       "type": 3,
       "api": "csp_HBxLei8CAT"
+    },
+    {
+      "key": "听书世界",
+      "name": "听书|世界",
+      "type": 3,
+      "api": "csp_HBTingShuCAT",
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
     }
   ],
   "parses": [

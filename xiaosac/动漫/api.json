@@ -32,6 +32,12 @@
             }
         },
         {
+            "key": "稀饭",
+            "name": "稀饭 • 动漫",
+            "type": 3,
+            "api": "csp_AnimeXifan"
+        },
+        {
             "key": "巴士动漫",
             "name": "巴士 • 动漫",
             "type": 3,
