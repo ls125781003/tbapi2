@@ -253,6 +253,26 @@
       "ext": "hbWobg"
     },
     {
+      "name": "☁️蜡笔┃4K",
+      "key": "lbWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "lbWobg"
+    },
+    {
+      "name": "☁️闪电┃4K",
+      "key": "sdWobg",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "sdWobg"
+    },
+    {
       "name": "☁️Sed┃4K",
       "key": "SeedHub",
       "type": 3,
