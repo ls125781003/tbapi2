@@ -53,6 +53,42 @@
       "type": 4
     },
     {
+      "key": "biliys",
+      "name": "B站|影视",
+      "type": 3,
+      "api": "csp_HBBiliYSCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
+      "key": "bili",
+      "name": "B站|点播",
+      "type": 3,
+      "api": "csp_BiliCAT",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
+      "key": "B站直播",
+      "name": "B站|直播",
+      "type": 3,
+      "api": "csp_BilibiliLiveCAT",
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
       "key": "juzi",
       "name": "橘子|弹幕",
       "type": 3,
@@ -194,12 +230,6 @@
       "name": "全网|短剧",
       "type": 4,
       "api": "http://38.76.197.172:15151/duanju.php?type=dquark"
-    },
-    {
-      "key": "B站直播",
-      "name": "B站|直播",
-      "type": 3,
-      "api": "csp_BilibiliLiveCAT"
     },
     {
       "key": "静月",
