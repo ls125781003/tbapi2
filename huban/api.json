@@ -119,6 +119,30 @@
       "api": "http://38.76.197.172:15151/duanju.php?type=dquark"
     },
     {
+      "key": "qimao",
+      "name": "七猫|短剧",
+      "type": 3,
+      "api": "csp_HBQimaoCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "weiguan",
+      "name": "围观|短剧",
+      "type": 3,
+      "api": "csp_HBWeiguanCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
       "key": "shangyue",
       "name": "赏月|动漫",
       "type": 3,
@@ -147,6 +171,29 @@
       "name": "异世界|动漫",
       "type": 3,
       "api": "csp_YsjCAT"
+    },
+    {
+      "key": "huazi",
+      "name": "花子|动漫",
+      "type": 3,
+      "api": "csp_HBAnimeHuaziCAT",
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "giri",
+      "name": "吉里|动漫",
+      "type": 3,
+      "api": "csp_HBAnimeGiriCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
     },
     {
       "key": "bubu",
@@ -889,6 +936,30 @@
       "api": "csp_MoggCAT",
       "ext": {
         "site": "https://xhww.net"
+      }
+    },
+    {
+      "key": "meijumi",
+      "name": "美剧|磁力",
+      "type": 3,
+      "api": "csp_HBMeijuMiCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "dyg",
+      "name": "电影港|磁力",
+      "type": 3,
+      "api": "csp_HBDianYingGCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
       }
     },
     {

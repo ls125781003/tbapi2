@@ -486,13 +486,13 @@
     },
     {
       "name": "⭐橘汁┃快速",
-      "key": "Woshinidie",
+      "key": "Juzhi",
       "type": 3,
-      "jar": "./jars/Woshinidie.jar",
-      "api": "csp_Woshinidie",
+      "api": "csp_JuzhiAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "Juzhi"
     },
     {
       "name": "⭐热播┃快速",
