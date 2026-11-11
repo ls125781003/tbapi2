@@ -47,6 +47,15 @@
       "ext": "Xxxg"
     },
     {
+      "name": "🔥下饭┃推荐",
+      "key": "Xfdh",
+      "type": 3,
+      "api": "csp_XfdhAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "name": "⚙️配置┃中心",
       "key": "MyConfig",
       "type": 3,
@@ -815,15 +824,6 @@
       "key": "PSfish",
       "type": 3,
       "api": "csp_PSfishAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": "🔍短剧┃盘搜",
-      "key": "PSdju",
-      "type": 3,
-      "api": "csp_PSdjuAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1

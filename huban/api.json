@@ -89,6 +89,40 @@
       }
     },
     {
+      "key": "mahu",
+      "name": "马猴|弹幕",
+      "type": 3,
+      "api": "csp_HBApp3QCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "ext": {
+        "host": "https://skykb.com",
+        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.damahou.tv",
+        "sk": "SK-woniu-thanks",
+        "ver": "1"
+      }
+    },
+    {
+      "key": "minuo",
+      "name": "米诺|APP",
+      "type": 3,
+      "api": "csp_HBAppMNCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
       "key": "xingya",
       "name": "星芽|短剧",
       "type": 3,
@@ -292,7 +326,7 @@
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
         "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
         "categories": "20:电影,21:剧集,22:综艺,23:动漫,24:短剧,25:直播,26:漫剧"
       },
       "style": {
@@ -528,6 +562,20 @@
       "name": "瓜子|弹幕",
       "type": 3,
       "api": "csp_HBGuaZiCAT"
+    },
+    {
+      "key": "葵花",
+      "name": "葵花|弹幕",
+      "type": 3,
+      "api": "csp_HBGuaZiCAT"
+    },
+    {
+      "key": "鼻涕",
+      "name": "大鼻涕|嗅探",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_WexbttwoCAT"
     },
     {
       "key": "HBPianKu8",
@@ -834,6 +882,30 @@
       "name": "枫叶|弹幕",
       "type": 3,
       "api": "csp_HBFengYeCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "dongpian",
+      "name": "懂片|弹幕",
+      "type": 3,
+      "api": "csp_HBDongPianCAT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "dubei",
+      "name": "杜北|弹幕",
+      "type": 3,
+      "api": "csp_HBDubkCAT",
       "searchable": 1,
       "quickSearch": 1,
       "style": {
