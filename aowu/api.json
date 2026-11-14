@@ -829,7 +829,7 @@
       "genre": "music"
     },
     {
-      "name": "🔍fish┃盘搜",
+      "name": "🔍飞鱼┃盘搜",
       "key": "PSfish",
       "type": 3,
       "api": "csp_PSfishAmns",
@@ -838,7 +838,7 @@
       "changeable": 1
     },
     {
-      "name": "🔍PSdju┃盘搜",
+      "name": "🔍觅寻┃盘搜",
       "key": "PSdju",
       "type": 3,
       "api": "csp_PSdjuAmns",
