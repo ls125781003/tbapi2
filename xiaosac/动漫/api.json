@@ -32,13 +32,13 @@
             }
         },
         {
-            "key": "赏月",
+            "key": "赏月动漫",
             "name": "赏月 • 动漫",
             "type": 3,
             "api": "csp_AnimeTsukimi"
         },
         {
-            "key": "稀饭",
+            "key": "稀饭动漫",
             "name": "稀饭 • 动漫",
             "type": 3,
             "api": "csp_AnimeXifan"
@@ -60,6 +60,12 @@
             "name": "花子 • 动漫",
             "type": 3,
             "api": "csp_AnimeHuazi"
+        },
+        {
+            "key": "漫国动漫",
+            "name": "漫国 • 动漫",
+            "type": 3,
+            "api": "csp_AnimeGHG"
         },
         {
             "key": "版本信息",
