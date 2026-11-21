@@ -68,15 +68,6 @@
             "filterable": 0
         },
         {
-            "key": "下饭",
-            "name": "下饭 • APP",
-            "type": 3,
-            "api": "csp_JuXiaFan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "快映fox",
             "name": "快映 • APP",
             "type": 3,
@@ -153,10 +144,10 @@
             "api": "csp_AppV7",
             "ext": {
                 "host": "http://app2.dsx.ac/ndsx.php",
-                "version": "4.0.0",
-                "version_number": "4000",
+                "version": "4.0.6",
+                "version_number": "4006",
                 "pk_id": "com.qdsj.zxt.hzjc",
-                "build_time": "1786613938967",
+                "build_time": "1790053427039",
                 "sign_md5": "56a4bb80bd67422e9c5b48f003d445c8",
                 "apk_length": "59954699",
                 "platform": "",
@@ -539,10 +530,9 @@
             "quickSearch": 0,
             "ext": {
                 "site":[
-                    "https://sidhub.cc",
+                    "https://seedog.cc",
                     "https://seeduck.cc",
-                    "https://hubdog.cc",
-                    "http://104.243.25.80"
+                    "https://hubdog.cc"
                 ]
             },
             "timeout": 60
@@ -597,8 +587,8 @@
             "filterable": 1,
             "ext": {
                 "site":[
-                    "https://www.hdmoli.com",
-                    "https://www.hdmoli.pro"
+                    "https://www.hdmoli.me",
+                    "https://www.hdmoli.org"
                 ]
             },
             "timeout": 60
@@ -736,12 +726,6 @@
             "api": "csp_XingChen"
         },
         {
-            "key": "飞娱影视",
-            "name": "飞娱 • 影视",
-            "type": 3,
-            "api": "csp_Feiyu"
-        },
-        {
             "key": "旺旺影视",
             "name": "旺旺 • 影视",
             "type": 3,
@@ -768,7 +752,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cz01.vip/"
+            "ext": "https://www.4kcz.com"
         },
         {
             "key": "金牌影视",
@@ -783,13 +767,6 @@
             "type": 3,
             "api": "csp_SaoHuo",
             "ext": "https://shdy5.us"
-        },
-        {
-            "key": "枫叶影视",
-            "name": "枫叶 • 影视",
-            "type": 3,
-            "api": "csp_FengYe",
-            "ext": "https://www.vip1949.com/"
         },
         {
             "key": "爱看机器人",
