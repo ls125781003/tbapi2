@@ -1399,6 +1399,42 @@
       "ext": "DTUUHTg4UEg="
     },
     {
+      "key": "erge_baobao",
+      "name": "宝宝|儿歌",
+      "type": 3,
+      "api": "csp_HBErGeCAT",
+      "searchable": 0,
+      "ext": "CxsyWQQ3KhkrCwFYNw8+HzgCLgMrD14M",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
+    },
+    {
+      "key": "erge_beiwa",
+      "name": "贝贝|儿歌",
+      "type": 3,
+      "api": "csp_HBErGeCAT",
+      "searchable": 0,
+      "ext": "CxsyWQQ3KhkrCwFYNw8uGQVdLRwEMFMM",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
+    },
+    {
+      "key": "erge_tutu",
+      "name": "兔兔|儿歌",
+      "type": 3,
+      "api": "csp_HBErGeCAT",
+      "searchable": 0,
+      "ext": "CxsyWQQ3KhkrCwFYCiouWQU8Ikw=",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
+    },
+    {
       "key": "HB36DJ",
       "name": "摇滚|歌曲",
       "type": 3,
